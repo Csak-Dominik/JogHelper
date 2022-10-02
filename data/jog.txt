@@ -1,0 +1,626 @@
+01_Jogi_alapok
+--------------
+1. 
+Az alább felsoroltak közül melyik nem jellemzõ a társadalmi és jogi normákra?
+a) A hipotetikus szerkezet.
+b) A szankció.
+c) A múltra irányultság.
+d) Mindegyik jellemzõ.
+
+2. 
+Az alábbiak közül melyik nem tartozik a társadalmi normák lényeges mozzanatai közé?
+a) A magatartás leírása.
+b) A magatartás minõsítése. (tilos, kötelezõ stb.)
+c) A következmények leírása.
+d) Mindegyik oda tartozik.
+
+3. 
+Melyik állítás a legjellemzõbb a jogi normákra?
+a) A társadalom alkotja, érvényesülését az állam biztosítja.
+b) Az állam alkotja, érvényesülését az állam biztosítja.
+c) Az állam alkotja, érvényesülését a társadalom biztosítja.
+d) A társadalom alkotja, érvényesülését a társadalom biztosítja.
+
+4. 
+Az alábbi 3 állítás (a,b,c) közül melyik hamis?
+a) A jogi normákat gyorsabban meg lehet változtatni, mint az erkölcsi normákat.
+b) Az erkölcsi normák szankciórendszerét a társadalmi nyomás jellemzi.
+c) A jogi norma az emberek formális magatartására irányul.
+d) Mindhárom elõzõ állítás igaz.
+
+5. 
+Az alábbi 3 állítás (a,b,c) közül melyik hamis?
+a) Az erkölcsi normákat gyorsabban meg lehet változtatni, mint a jogi normákat.
+b) Az erkölcsi normák szankciórendszerét a társadalmi nyomás jellemzi.
+c) A jogi norma az emberek formális magatartására irányul.
+d) Mindhárom elõzõ állítás igaz.
+
+5/A.
+Hányféle módját ismerjük a jogképzõdésnek, a jogi normák létrejöttének? Sorolja is fel ezeket.
+a) 2
+b) 3 szokásjogi, jogalkalmazói (bírói), jogalkotói
+c) 4
+d) 5
+
+5/B.
+Melyik jogképzõdési mód során jön létre a precedensjog?
+a) Szokásjogi jogképzõdés útján.
+b) Jogalkalmazói jogképzõdés útján.
+c) Jogalkotói jogképzõdés útján.
+d) Megyegyezés útján.
+
+6.
+A jog melyik funkciójának megvalósítását biztosítja elsõsorban a bírósági szervezet?
+a) Az integráló funkciót.
+b) A konfliktus-feloldó funkciót.
+c) A társadalomszervezõ funkciót.
+d) Egyik funkció megvalósítását sem biztosítja.
+
+6/A.
+A jog melyik funkciójának megvalósítását biztosítják elsõsorban a közigazgatási hatóságok?
+a) Az integráló funkciót.
+b) A konfliktus-feloldó funkciót.
+c) A társadalomszervezõ funkciót.
+d) Egyik funkció megvalósítását sem biztosítják.
+
+7.
+Az alábbi 3 állítás (a,b,c) közül melyik hamis?
+a) Az anyagi jogforrás azt a szervet jelenti, amelytõl a jogi norma ered.
+b) Az alaki jogforrás azt a formát jelenti, amelyben a jogi norma megjelenik.
+c) Elsõdleges jogforrás maga a jogalkotó hatalom, az állam. 
+d) Mindhárom elõzõ állítás igaz.
+
+8.
+Mit mond ki a "Lex superior derogat legi inferiori" alapelv?
+a) A késõbb megalkotott jogszabály a korábbinak a hatályát lerontja.
+b) A speciális jogszabályt kell alkalmazni az általánossal szemben.
+c) Alacsonyabb szintû jogszabály nem ellenkezhet magasabb szintûvel.
+d) Jogszabállyal ellentétes másik jogszabályt nem lehet alkotni.
+
+8/A.
+Mit mond ki a "Lex posterior derogat legi priori" alapelv?
+a) A késõbb megalkotott jogszabály a korábbinak a hatályát lerontja.
+b) A speciális jogszabályt kell alkalmazni az általánossal szemben.
+c) Alacsonyabb szintû jogszabály nem ellenkezhet magasabb szintûvel.
+d) Jogszabállyal ellentétes másik jogszabályt nem lehet alkotni.
+
+9. 
+Az alábbi jogszabályok közül melyik tartozik az anyagi jog körébe?
+a) A büntetõeljárásról szóló törvény.
+b) A polgári eljárásról szóló törvény.
+c) Az általános közigazgatási rendtartásról szóló törvény.
+d) Egyik sem.
+
+10.
+Az alábbi jogszabályok közül melyik tartozik az anyagi jog körébe?
+a) A büntetõeljárásról szóló törvény.
+b) A polgári törvénykönyv.
+c) Az általános közigazgatási rendtartásról szóló törvény.
+d) Egyik sem.
+
+11. 
+Az alábbi jogszabályok közül melyik tartozik az alaki jog körébe?
+a) A büntetõ törvénykönyv.
+b) A büntetõeljárásról szóló törvény.
+c) A polgári törvénykönyv.
+d) A munka törvénykönyve.
+
+12. 
+Melyik állítás igaz?
+a) A polgári jog a közjog területéhez tartozik.
+b) A büntetõjog a magánjog területéhez tartozik.
+c) A kereskedelmi jog a magánjog területéhez tartozik.
+d) A közigazgatási jog a magánjog területéhez tartozik.
+
+12/A.
+Mit nevezünk joghézagnak?
+a) Amikor a bíróság nem tud választani két alkalmazandó jogszabály közül.
+b) Amikor két jogszabály egymásnak ellentmondó.
+c) Amikor a jog nem tartalmaz választ egy adott kérdésre.
+d) Amikor nincs olyan bíróság, amelyik dönthetne egy adott kérdésben.
+
+12/B.
+Melyik jogág szabályozási körébe tartozik a gyülekezési jog?
+a) Polgári jog.
+b) Alkotmányjog.
+c) Munkajog.
+d) Közigazgatási jog.
+
+13. 
+Melyik állítás igaz az angolszász jogrendszerekre?
+a) A jogalkotás és jogalkalmazás szférája mereven elválik egymástól.
+b) A szabályok jelentõs része nincs törvénybe foglalva.
+c) E jogrendszerek pillérei az írott jogforrások.
+d) A joganyag önálló, zárt rendszert alkot.
+
+14. 
+Melyik jogrendszerre a leginkább jellemzõ, hogy politikailag erõsen kötött?
+a) Az angolszász jogrendszerekre.
+b) A szocialista jogrendszerekre.
+c) A kontinentális jogrendszerekre.
+d) A vallási alapú jogrendszerekre.
+
+15. 
+Melyik állítás igaz a kontinentális jogrendszerekre?
+a) A bírónak jelentõs szerepe van a jogalkotásban.
+b) A jogszabályok kevésbé elvontak és általánosak.
+c) A joganyag önálló, zárt rendszert alkot.
+d) A jogszabályok egy-egy vitás ügy eldöntésekor keletkeznek.
+
+16. 
+Melyik állítás nem igaz a szocialista jogrendszerekre vonatkozóan?
+a) A politika közvetlenül befolyásolja a jogot.
+b) A magánjognak kisebb a jelentõsége.
+c) A jogi túlszabályozás jellemzõ.
+d) Mindegyik fenti állítás igaz rá.
+
+17. 
+Melyik állítás nem igaz a szocialista jogrendszerekre vonatkozóan?
+a) A politika közvetlenül befolyásolja a jogot.
+b) A magánjognak nagy jelentõsége van.
+c) A jogi túlszabályozás jellemzõ.
+d) Mindegyik fenti állítás igaz rá.
+
+-----------------------------------------------------------------------------
+02_Jogszabalytan
+----------------
+
+18. 
+A tényeknek olyan összessége, amelyhez valamilyen joghatás fûzõdik, ...
+a) a jogi norma diszpozíciója.
+b) a jogi norma szankciója.
+-c) a jogi norma hipotézise.
+d) a jogi norma jogkövetkezménye.
+
+19. 
+Az a magatartási szabály, amelyet a jogalkotó a jogalany számára elõír, ...
+-a) a jogi norma diszpozíciója.
+b) a jogi norma szankciója.
+c) a jogi norma hipotézise.
+d) a jogi norma jogkövetkezménye.
+
+20. 
+Egészítse ki a kipontozott részt.
+A ... esetén a jogalkotó nem határozza meg, hogy mely tényállás esetén szükséges 
+a normában meghatározott magatartást tanúsítani, csupán példaszerûen felsorolja azokat.
+a) zárt tényállás
+-b) nyitott tényállás
+c) parancsoló norma
+d) diszpozitív norma
+
+21.
+Milyenfajta rendelkezés nem fordulhat elõ a jogi norma diszpozíciójában?
+a) tiltó
+b) parancsoló
+c) megengedõ
+-d) mindhárom elõfordulhat
+
+22. 
+Melyik állítás igaz?
+a) A lopás bûncselekménye mindig vagyoni jellegû szankciót von maga után.
+b) A jogi norma megsértése nem járhat személyi jellegû szankcióval.
+c) A szankció egyidejûleg mindig csak egyféle joghátrányt alkalmazhat.
+-d) Az érvénytelenség a szankciók egyik típusa.
+
+23. 
+Melyik állítás igaz?
+a) Az apaság vélelme nem megdönthetõ.
+b) A fikció esetén lehetõség van az ellenkezõ bizonyítására.
+c) A 14. életévét be nem töltött személy cselekvõképtelenségének vélelme megdönthetõ.
+-d) A vélelem legfontosabb jogi következménye a bizonyítási teher megfordítása.
+
+24.
+Melyik állítás igaz?
+-a) Az apaság vélelme megdönthetõ.
+b) A fikció esetén lehetõség van az ellenkezõ bizonyítására.
+c) A 14. életévét be nem töltött személy cselekvõképtelenségének vélelme megdönthetõ.
+d) A fikció legfontosabb jogi következménye a bizonyítási teher megfordítása.
+
+25. 
+Egy jogszabály érvényességének hány feltétele van? Sorolja is fel ezeket.
+a) 3, a következõk:
+-b) 4, a következõk: megfelelõ szerv; megfelelõ eljárás; kihirdetés; hierarchiába illeszkedés
+c) 2, a következõk:
+d) 5, a következõk:
+
+26. 
+Melyik állítás igaz?
+a) A jogszabály idõbeli hatálya nem lehet visszamenõleges.
+b) A magyar jogszabályok területi hatálya Magyarország teljes területe.
+-c) Egy jogszabály lehet egyidejûleg érvényes, de nem hatályos.
+d) Egy jogszabály lehet egyidejûleg hatályos és érvénytelen.
+
+27. 
+Melyik állítás igaz?
+a) Egy magyar jogszabály minden magyar állampolgárra vonatkozik.
+-b) Egy jogszabály csak a jövõre vonatkozóan állapíthat meg kötelezettséget.
+c) A személyi hatály azt határozza meg, hogy ki alkotta a jogszabályt.
+d) Egy magyar jogszabály csak magyar állampolgárokra vonatkozik.
+
+28.
+Melyik állítás igaz?
+a) Egy jogszabály nem érvényes, ha a köztársasági elnök nem írta alá.
+b) Egy törvény nem érvényes, ha ellenkezik egy rendelettel.
+-c) Egy jogszabály nem érvényes, ha nem hirdették ki.
+d) Mindhárom fenti állítás hamis.
+
+29. 
+Melyik állítás igaz?
+a) Egy jogszabály nem érvényes, ha a köztársasági elnök nem írta alá.
+-b) Egy rendelet nem érvényes, ha ellenkezik egy törvénnyel.
+c) Egy jogszabály akkor is érvényes, ha nem hirdették ki.
+d) Mindhárom fenti állítás hamis.
+
+30. 
+Melyik állítás igaz?
+a) A jogszabályok tudományos értelmezésének csak az adott ügyben van kötelezõ ereje.
+-b) A jogalkotói jogszabály értelmezés minden címzettre nézve kötelezõ.
+c) A jogalkalmazói jogszabály értelmezésnek nincs kötelezõ ereje.
+d) A jogalkotói jogszabály értelmezés tilos. 
+
+31.
+Melyik állítás igaz?
+a) A közigazgatási szervek eljárása mindig kezdeményezésre indul.
+-b) A jogalanyok önkéntes jogkövetését is jogalkalmazásnak tekintjük.
+c) A jogalkalmazás célja mindig valamilyen jogsérelem orvoslása.
+d) A jogalkalmazás utolsó lépése a tényállás megállapítása.
+
+32.
+Melyik nem következhet be a jogalkalmazás eredményeképpen?
+a) Jogviszony keletkezése.
+b) Jogviszony megszûnése.
+c) Jogviszony módosulása.
+-d) Mindhárom fenti bekövetkezhet.
+
+33. 
+Mely szerv biztosítja a bíróságok egységes jogalkalmazását?
+a) Az alkotmánybíróság.
+b) A törvényszék.
+c) Az ítélõtábla.
+-d) A Kúria.
+
+33/A 
+Mely szerv biztosítja a bíróságok egységes jogalkalmazását?
+a) Az alkotmánybíróság.
+b) Az ítélõtábla.
+-c) A Kúria.
+d) Egyik sem.
+
+34. 
+Melyik nem tartozik a jogszabály értelmezésének módszerei közé?
+a) A rendszertani értelmezés.
+b) A történeti értelmezés.
+-c) A módszertani értelmezés.
+d) A logikai értelmezés.
+
+35. 
+A jogviszony szerkezeti elemei közé tartozik
+a) a jogviszony helye.
+b) a jogviszony ideje.
+-c) a jogviszony tartalma.
+d) Egyik sem.
+
+36.
+Ingatlan adásvételi szerzõdés esetén a jogviszony tárgya
+a) a vételár kifizetése.
+b) a tulajdonjog átruházása.
+-c) az ingatlan.
+d) Egyik sem.
+
+37. 
+Melyik állítás hamis?
+a) A kötelmi jogban a relatív szerkezetû jogviszonyok jellemzõk.
+b) A tulajdonjog abszolút szerkezetû jogviszony.
+-c) Ha több, mint 2 fél szerepel a szerzõdésben, az abszolút szerkezetû jogviszonyt eredményez.
+d) A károkozás relatív szerkezetû jogviszonyt teremt.
+
+38. 
+Az alábbiak (a,b,c) közül melyik nem rendelkezik jogi személyiséggel?
+a) Az Állam.
+b) Az egyesület.
+-c) A társasház.
+d) Mindegyik rendelkezik.
+
+38/A. 
+Az alábbiak (a,b,c) közül melyik nem rendelkezik jogi személyiséggel?
+a) Az Állam.
+b) Az egyesület.
+c) Az egyetem.
+-d) Mindegyik rendelkezik. 
+
+39. 
+Melyik állítás igaz?
+a) Együttes kötelezettek bármelyikétõl az egész tartozás követelhetõ.
+b) Egyetemleges kötelezettek egyidejûleg, de arányosan kötelesek teljesíteni.
+c) A kezes az adóssal fele-fele arányban köteles teljesíteni a tartozást.
+-d) Mindhárom fenti állítás hamis.
+
+-----------------------------------------------------------------------------
+03_Szemelyek_joga
+-----------------
+
+40. 
+Az alábbi 3 állítás (a,b,c) közül melyik hamis?
+a) Aki jogképes, az önállóan köthet szerzõdést.
+b) Aki jogképes, az jogosultságok alanya lehet.
+c) Aki betöltötte a 14. életévét az jogképes.
+d) Mindhárom elõzõ állítás igaz.
+
+41. 
+Melyik állítás igaz?
+a) A jogképesség a születéssel kezdõdik.
+b) A jogképesség mindig a születés elõtti 300-adik napon kezdõdik.
+c) A jogképesség mindig a fogamzástól kezdõdik.
+d) A magzat jogképessége feltételes.
+
+42. 
+Melyik állítás igaz?
+a) A bíróság korlátozhatja a természetes személy jogképességét.
+b) A Ptk. nem korlátozhatja az ember cselekvõképességét.
+c) Aki cselekvõképes, az önállóan köthet szerzõdést.
+d) Mindhárom fenti állítás hamis.
+
+43. 
+Az alábbi 3 állítás (a,b,c) közül melyik hamis?
+a) 17 éves személy is lehet nagykorú.
+b) 17 éves személy is lehet cselekvõképes.
+c) 13 éves személy is lehet korlátozottan cselekvõképes.
+d) Mindhárom elõzõ állítás igaz.
+
+44.
+Az alábbi 3 állítás (a,b,c) közül melyik hamis?
+a) A kiskorú személy a házasságkötéssel nagykorúvá válik.
+b) 17 éves személy is lehet cselekvõképes.
+c) A 13 éves személy minden esetben cselekvõképtelennek minõsül.
+d) Mindhárom elõzõ állítás igaz.
+
+45.
+Az alábbi 3 állítás (a,b,c) közül melyik hamis?
+a) Nagykorú személy is lehet cselekvõképtelen.
+b) Kiskorú személy is lehet korlátozottan cselekvõképes.
+c) A kiskorú személy házasságkötése minden esetben érvénytelen.
+d) Mindhárom elõzõ állítás igaz.
+
+46. 
+Mit nem tehet meg önállóan a korlátozottan cselekvõképes kiskorú?
+a) Tetszõleges értékû ajándékot adhat.
+b) Tetszõleges értékû ajándékot elfogadhat.
+c) Rendelkezhet munkával szerzett jövedelmével.
+d) Mindhárom fenti jognyilatkozatot megteheti önállóan.
+
+47. 
+Melyik nem tartozik a gyám feladatai közé?
+a) A gyermek gondozása, nevelése.
+b) A gyermek vagyonának kezelése.
+c) A gyermek törvényes képviselete.
+d) Mindhárom fenti a gyám feladatai közé tartozik.
+
+48. 
+Melyikkel nem feltétlenül kell rendelkeznie a jogi személynek?
+a) Székhellyel.
+b) Saját vagyonnal.
+c) Telephellyel.
+d) Képviselõvel.
+
+49. 
+Ki felel a jogi személy tartozásaiért?
+a) A vezetõ tisztségviselõ.
+b) A döntéshozó szerv.
+c) A tagok és alapítók.
+d) Egyik sem.
+
+50. 
+Mikor jön létre a jogi személy?
+a) A létesítõ okirat aláírásakor.
+b) A bejegyzési kérelem bírósághoz történõ benyújtásakor.
+c) A bírósági nyilvántartásba vétel megtörténtekor.
+d) A bírósági határozat kézbesítésekor.
+
+51. 
+Ki látja el a jogi személy tulajdonosainak érdekvédelmét?
+a) A könyvvizsgáló.
+b) A vezetõ tisztségviselõ.
+c) A felügyelõbizottság.
+d) Egyik sem.
+
+52. 
+Ki látja el a jogi személy törvényes mûködésének felügyeletét?
+a) Az ügyészség.
+b) A felügyelõbizottság.
+c) A nyilvántartó bíróság.
+d) Egyik sem.
+
+53.
+Melyik állítás hamis?
+a) Összeolvadásnál a korábbi jogi személyek megszûnnek.
+b) Kiválásnál a jogi személy megszûnik.
+c) Különválásnál a jogi személy megszûnik.
+d) Átalakulásnál a korábbi jogi személy megszûnik.
+
+54. 
+Melyik nem tartozik a (jogi személy) jogutód nélküli megszûnés esetei közé?
+a) A tagok kimondják a megszûnést.
+b) A létesítõ okiratban meghatározott idõ eltelik.
+c) A jogi személy tartozása meghaladja a vagyonát.
+d) A jogosult szerv megszünteti.
+
+55. 
+Melyik állítás igaz?
+a) Alapítvány létrehozásához legalább 10 alapító szükséges.
+b) Az egyesület megszûnik, ha tagjainak száma tartósan nem éri el a 12 fõt.
+c) Az egyesület átalakulhat alapítvánnyá.
+d) Egyik fenti állítás sem igaz.
+
+56.
+Melyik állítás igaz?
+a) Alapítvány létrehozásához legalább 10 alapító szükséges.
+b) Az egyesület megszûnik, ha tagjainak száma tartósan nem éri el a 10 fõt.
+c) Az alapítvány átalakulhat egyesületté.
+d) Egyik fenti állítás sem igaz.
+
+57.
+Egyesületnél mely esetben kötelezõ a felügyelõbizottság létrehozása?
+a) Ha a tagok több, mint negyede nem természetes személy.
+b) Ha a tagok létszáma az 50 fõt meghaladja.
+c) Ha a könyvvizsgáló ezt kéri.
+d) Egyik fenti esetben sem kötelezõ.
+
+58.
+Egyesületnél mely esetben kötelezõ a felügyelõbizottság létrehozása?
+a) Ha a tagok több, mint fele nem természetes személy.
+b) Ha a tagok létszáma az 50 fõt meghaladja.
+c) Ha a könyvvizsgáló ezt kéri.
+d) Egyik fenti esetben sem kötelezõ.
+
+59. 
+Melyik állítás igaz?
+a) Alapítvány nem, de egyesület létrehozható gazdasági tevékenység folytatására.
+b) Egyesület nem, de alapítvány létrehozható gazdasági tevékenység folytatására.
+c) Sem egyesület, sem alapítvány nem hozható létre gazdasági tevékenység folytatására.
+d) Egyesület és alapítvány is létrehozható gazdasági tevékenység folytatására.
+
+-----------------------------------------------------------------------------
+04_Tarsasagi_jog
+----------------
+
+60. 
+Melyik jellemzõ a kontinentális (német) társasági modellre?
+a) Erõsen megosztott a tulajdonosi szerkezet.
+b) Csekély a társasági formaválaszték.
+c) A társasági szervek élesen elkülönülnek egymástól.
+d) Egyik sem jellemzõ.
+
+61. 
+Melyik nem jellemzõ az angol-amerikai társasági modellre?
+a) A társasági jog szorosan összefonódik a tõkepiac intézményeivel.
+b) A társaságnak egységes vezetõ szerve van.
+c) A könyvvizsgáló szerepe és felelõssége csekély.
+d) Mindegyik fenti állítás jellemzõ rá.
+
+62.
+Az alábbiak közül melyik szolgálja a közérdeket a társasági jogban?
+a) A diszpozitív szabályozás.
+b) A cégnyilvánosság elve.
+c) A választott bírósági eljárás igénybevételének lehetõsége.
+d) Egyik sem.
+
+63. 
+Melyik társasági forma nem hozható létre egyszemélyes gazdasági társaságként?
+a) Egyszemélyes korlátolt felelõsségû társaság.
+b) Egyszemélyes betéti társaság.
+c) Egyszemélyes részvénytársaság.
+d) Mindhárom forma létrehozható.
+
+64.
+Melyik társasági forma hozható létre egyszemélyes gazdasági társaságként?
+a) Egyszemélyes betéti társaság.
+b) Egyszemélyes korlátolt felelõsségû társaság.
+c) Egyszemélyes közkereseti társaság.
+d) Egyik sem hozható létre.
+
+65. 
+Hány tag alapíthat közkereseti társaságot?
+a) Legalább egy beltag.
+b) Legalább egy beltag és egy kültag.
+c) Legalább két tag.
+d) Legalább két beltag.
+
+66.
+Milyen célt szolgál a társasági formakényszer?
+a) A hitelezõk védelmét.
+b) A kisebbségi jogok védelmét.
+c) A társulási szabadság érvényre jutását.
+d) A közérdeket.
+
+67. 
+Hányféle társasági formában alapítható gazdasági társaság? Sorolja is fel õket.
+a) 3, a következõk:
+-b) 4, a következõk: Kkt., Bt., Kft., Zrt.
+c) 5, a következõk:
+d) Egyik fenti válasz sem megfelelõ.
+
+68. 
+Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?
+a) A korlátolt felelõsségû társaság.
+b) A betéti társaság.
+c) A részvénytársaság.
+d) Mindegyik rendelkezik.
+
+68/A. 
+Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?
+a) A korlátolt felelõsségû társaság.
+b) Az egyéni cég.
+c) A részvénytársaság.
+d) Mindegyik rendelkezik.
+
+69.
+Az alábbiak közül melyik nem lehet apport gazdasági társaság alapítása során?
+a) Egy személyautó.
+b) Egy találmány.
+c) Szerzõdésen alapuló követelés.
+d) A fentiek mindegyike lehet apport.
+ 
+70. 
+Melyik állítás igaz?
+a) Közkereseti társaság nem lehet egy korlátolt felelõsségû társaságnak tagja.
+b) Betéti társaság nem lehet egy közkereseti társaságnak tagja.
+c) Korlátolt felelõsségû társaság nem lehet egy betéti társaságnak beltagja.
+d) Részvénytársaságnak csak természetes személyek lehetnek a tagjai.
+
+71. 
+Melyiket nem kezdeményezhetik a G.T. szavazati jogok 5%-ával rendelkezõ tagjai?
+a) Egyedi könyvvizsgálatot.
+b) A legfõbb szerv összehívását.
+c) Egy tag kizárását.
+d) A társaság igényének érvényesítését egy taggal szemben.
+
+72. 
+Kik szavazhatnak a gazdasági társaság legfõbb szervének ülésén?
+a) A társaság tagjai.
+b) A társaság tagjai és a vezetõ tisztségviselõ.
+c) A tagok és a felügyelõ bizottság tagjai.
+d) A tagok és a cégvezetõk.
+
+73. 
+Melyik tartozik a gazdasági társaság felügyelõbizottságának feladatai közé?
+a) A vezetõ tisztségviselõ megválasztása és visszahívása.
+b) A könyvvizsgáló ellenõrzése.
+c) Az ügyvezetés ellenõrzése.
+d) A beszámoló elkészítése.
+
+74. 
+A gazdasági társaság melyik szerve kezdeményezheti egy tag kizárását?
+a) A felügyelõ bizottság.
+b) A legfõbb szerv.
+c) A vezetõ tisztségviselõ.
+d) Egyik sem, mert tagot nem lehet kizárni.
+
+75.
+Melyik szerv dönt a társaság jogutód nélküli megszûnésérõl?
+a) A legfõbb szerv.
+b) A felügyelõ bizottság.
+c) A vezetõ tisztségviselõ.
+d) A könyvvizsgáló. 
+
+76. 
+Melyik állítás hamis a Kft-re vonatkozóan?
+a) Kft. esetén a tagok törzsbetétei különbözõ mértékûek lehetnek.
+b) Az egyes törzsbetétek mértéke legalább 100.000 Ft.
+c) A törzstbetétek összege a törzstõke, melynek minimális mértéke 1 millió Ft.
+d) Egy tagnak több üzletrésze is lehet.
+
+77. 
+Melyik állítás hamis?
+a) A Bt. alaptõkéje nem lehet kevesebb, mint 100.000 Ft.
+b) A Zrt. alaptõkéje nem lehet kevesebb, mint 5 millió Ft.
+c) Az Nyrt. alaptõkéje nem lehet kevesebb, mint 20 millió Ft.
+d) A közkereseti társaság alaptõkéjére nincs minimális elõírás.
+
+78. 
+Kinek a tulajdona a betéti társaság vagyona?
+a) A beltagok közös tulajdona.
+b) Valamennyi tag közös tulajdona.
+c) A társaság tulajdona.
+d) Az alapító tagok közös tulajdona. 
+
+-----------------------------------------------------------------------------

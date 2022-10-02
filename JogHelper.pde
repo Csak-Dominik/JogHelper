@@ -3,16 +3,17 @@ ArrayList<Theme> themes = new ArrayList<Theme>();
 Question currentQuestion;
 
 void setup() {
-    size(640, 480);
+    size(800, 600);
     themes = ParseTextFile("jog.txt");
 
     println("Available fonts:");
     String[] fontList = PFont.list();
     printArray(fontList);
 
-    textFont(loadFont("ArialMT-48.vlw"), 10f);
+    //textFont(loadFont("ArialMT-48.vlw"), 12f);
+    textSize(20);
 
-    currentQuestion = RandomQuestionInThemeRange(0, 0);
+    currentQuestion = RandomQuestionInThemeRange(0, 1);
 }
 
 void draw() {
@@ -32,19 +33,19 @@ Question RandomQuestionInThemeRange(int minIndex, int maxIndex) {
 void DisplayQuestion(Question q) {
     fill(255);
     textAlign(CENTER, BASELINE);
-    text(q.questionCode, width/2, height/2-(q.answers.size()*10)-30);
-    text(q.questionText, width/2, height/2-(q.answers.size()*10)-20);
+    text(q.questionCode, width/2, height/2-(q.answers.size()*20)-60);
+    text(q.questionText, width/2, height/2-(q.answers.size()*20)-40);
 
     int index = 0;
     for (Answer a : q.answers) {
         boolean horizHover = mouseX >= width/2-textWidth(a.answerText)/2f && mouseX < width/2+textWidth(a.answerText)/2f;
-        boolean vertHover = mouseY >= height/2-(q.answers.size()/2f * 10)+(index * 10) - 10 && mouseY <= height/2-(q.answers.size()/2f * 10)+(index * 10);
+        boolean vertHover = mouseY >= height/2-(q.answers.size()/2f * 20)+(index * 20) - 20 && mouseY < height/2-(q.answers.size()/2f * 20)+(index * 20);
         if (horizHover && vertHover) {
             fill(255, 255, 0);
         } else {
             fill(255);
         }
-         text(a.answerText, width/2, height/2-(q.answers.size()/2f * 10)+(index * 10));
+         text(a.answerText, width/2, height/2-(q.answers.size()/2f * 20)+(index * 20));
 
          index++;
     }

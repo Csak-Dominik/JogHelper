@@ -10,39 +10,58 @@ void draw() {
 }
 
 enum ParsePhase {
-    NONE,
     THEME,
-    QUESTION,
+    QUESTION_CODE,
+    QUESTION_TEXT,
     ANSWER
 }
 
-void ParseTextFile(String name) {
+ ArrayList<Theme> ParseTextFile(String name) {
     String[] lines = loadStrings(name);
     if (lines == null) return;
     
-    ParsePhase phase = ParsePhase.NONE;
-    
+    ParsePhase phase = ParsePhase.THEME;
+
+    ArrayList<Theme> parseThemes = new ArrayList<Theme>();
+
+    Theme theme;
+    Question question;
+
     for (String line : lines) {
-        switch (phase) {
-            case NONE: {
-                if () {
-                    
+        switch(phase) {
+            case THEME:
+            {
+                if (line.substring(0, 2).equals("--")) {
+                    println("Ended theme name parsing...");
+                    phase = ParsePhase.QUESTION_CODE;
+                } else {
+                    println("Parsing theme name...");
+                    theme = new Theme();
+                    theme.themeName = line;
                 }
                 break;
             }
-            case THEME: {
+            case QUESTION_CODE:
+            {
+                question = new Question(),
+                question.questionCode = line;
+                phase = 
                 break;
             }
-            case QUESTION: {
+             case QUESTION_TEXT:
+            {
                 break;
             }
-            case ANSWER: {
+            case ANSWER:
+            {
                 break;
             }
-            default :
+            default:
             {
                 println("ParsePhase not in switch statement!");
             }
         }
     }
+
+    return parseThemes;
 }

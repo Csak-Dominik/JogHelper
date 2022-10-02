@@ -1,5 +1,5 @@
 class Question {
-    String questionID;
+    String questionCode;
     String questionText;
     ArrayList<Answer> answers = new ArrayList<Answer>();
 }

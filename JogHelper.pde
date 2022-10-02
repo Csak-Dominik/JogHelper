@@ -5,14 +5,18 @@ Question currentQuestion;
 void setup() {
     size(800, 600);
     themes = ParseTextFile("jog.txt");
-
+    
     println("Available fonts:");
     String[] fontList = PFont.list();
     printArray(fontList);
-
+    
     //textFont(loadFont("ArialMT-48.vlw"), 12f);
+    //PFont font = createFont("Arial.ttf", 20f);
+    PFont font = createFont("Times New Roman", 20f);
+    textFont(font);
+    
     textSize(20);
-
+    
     currentQuestion = RandomQuestionInThemeRange(0, 1);
 }
 
@@ -22,32 +26,32 @@ void draw() {
 }
 
 Question RandomQuestionInThemeRange(int minIndex, int maxIndex) {
-    int rndTheme = floor(random(minIndex, maxIndex+1));
+    int rndTheme = floor(random(minIndex, maxIndex + 1));
     Theme t = themes.get(rndTheme);
     int rndQuestion = floor(random(0, t.questions.size()));
     Question q = t.questions.get(rndQuestion);
-
+    
     return q;
 }
 
 void DisplayQuestion(Question q) {
     fill(255);
     textAlign(CENTER, BASELINE);
-    text(q.questionCode, width/2, height/2-(q.answers.size()*20)-60);
-    text(q.questionText, width/2, height/2-(q.answers.size()*20)-40);
-
+    text(q.questionCode, width / 2, height / 2 - (q.answers.size() * 20) - 60);
+    text(q.questionText, width / 2, height / 2 - (q.answers.size() * 20) - 40);
+    
     int index = 0;
     for (Answer a : q.answers) {
-        boolean horizHover = mouseX >= width/2-textWidth(a.answerText)/2f && mouseX < width/2+textWidth(a.answerText)/2f;
-        boolean vertHover = mouseY >= height/2-(q.answers.size()/2f * 20)+(index * 20) - 20 && mouseY < height/2-(q.answers.size()/2f * 20)+(index * 20);
+        boolean horizHover = mouseX >= width / 2 - textWidth(a.answerText) / 2f && mouseX < width / 2 + textWidth(a.answerText) / 2f;
+        boolean vertHover = mouseY >= height / 2 - (q.answers.size() / 2f * 20) + (index * 20) - 20 && mouseY < height / 2 - (q.answers.size() / 2f * 20) + (index * 20);
         if (horizHover && vertHover) {
             fill(255, 255, 0);
         } else {
             fill(255);
         }
-         text(a.answerText, width/2, height/2-(q.answers.size()/2f * 20)+(index * 20));
-
-         index++;
+        text(a.answerText, width / 2, height / 2 - (q.answers.size() / 2f * 20) + (index * 20));
+        
+        index++;
     }
 }
 
@@ -58,25 +62,41 @@ enum ParsePhase {
     ANSWER
 }
 
- ArrayList<Theme> ParseTextFile(String name) {
-    String[] lines = loadStrings(name);
-    if (lines == null) return null;
+ArrayList<Theme> ParseTextFile(String name) {
+    ArrayList<String> lines = new ArrayList<>();
+    
+    BufferedReader reader = createReader(name);
+    if (reader == null) return null;
+    
+    while(true) {
+        String line;
+        try {
+            line = reader.readLine();
+        } catch(IOException e) {
+            e.printStackTrace();
+            line = null;
+        }
+        if (line == null) {
+            break;
+        } else{
+            lines.add(line);
+        }
+    }
     
     ParsePhase phase = ParsePhase.THEME;
-
+    
     ArrayList<Theme> parseThemes = new ArrayList<Theme>();
-
+    
     Theme theme = new Theme();
     Question question = new Question();
-
+    
     int lineNumber = 1;
     for (String line : lines) {
-        print("Line: "+lineNumber+" - ");
+        print("Line: " + lineNumber + " - ");
         lineNumber++;
-
+        
         switch(phase) {
             case THEME:
-            {
                 if (line.substring(0, 2).equals("--")) {
                     println("Ended theme name parsing...");
                     phase = ParsePhase.QUESTION_CODE;
@@ -87,25 +107,19 @@ enum ParsePhase {
                     theme.themeName = line;
                 }
                 break;
-            }
             case QUESTION_CODE:
-            {
                 println("Parsing question code...");
                 question = new Question();
                 theme.questions.add(question);
                 question.questionCode = line;
                 phase = ParsePhase.QUESTION_TEXT;
                 break;
-            }
-             case QUESTION_TEXT:
-            {
+            case QUESTION_TEXT:
                 println("Parsing question text...");
                 question.questionText = line;
                 phase = ParsePhase.ANSWER;
                 break;
-            }
             case ANSWER:
-            {   
                 if (line.equals("")) {
                     println("Jumping to new question parsing...");
                     phase = ParsePhase.QUESTION_CODE;
@@ -116,9 +130,9 @@ enum ParsePhase {
                     phase = ParsePhase.THEME;
                     break;
                 }
-
+                
                 println("Parsing answer...");
-
+                
                 Answer ans = new Answer();
                 question.answers.add(ans);
                 if (line.substring(0, 1).equals("-")) {
@@ -129,13 +143,10 @@ enum ParsePhase {
                     ans.correctAnswer = false;
                 }
                 break;
-            }
             default:
-            {
-                println("ParsePhase not in switch statement!");
-            }
+            println("ParsePhase not in switch statement!");
         }
     }
-
+    
     return parseThemes;
 }

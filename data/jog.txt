@@ -1,622 +1,622 @@
 01_Jogi_alapok
 --------------
 1. 
-Az alább felsoroltak közül melyik nem jellemzõ a társadalmi és jogi normákra?
+Az alÃ¡bb felsoroltak kÃ¶zÃ¼l melyik nem jellemzÅ‘ a tÃ¡rsadalmi Ã©s jogi normÃ¡kra?
 a) A hipotetikus szerkezet.
-b) A szankció.
-c) A múltra irányultság.
-d) Mindegyik jellemzõ.
+b) A szankciÃ³.
+c) A mÃºltra irÃ¡nyultsÃ¡g.
+d) Mindegyik jellemzÅ‘.
 
 2. 
-Az alábbiak közül melyik nem tartozik a társadalmi normák lényeges mozzanatai közé?
-a) A magatartás leírása.
-b) A magatartás minõsítése. (tilos, kötelezõ stb.)
-c) A következmények leírása.
+Az alÃ¡bbiak kÃ¶zÃ¼l melyik nem tartozik a tÃ¡rsadalmi normÃ¡k lÃ©nyeges mozzanatai kÃ¶zÃ©?
+a) A magatartÃ¡s leÃ­rÃ¡sa.
+b) A magatartÃ¡s minÅ‘sÃ­tÃ©se. (tilos, kÃ¶telezÅ‘ stb.)
+c) A kÃ¶vetkezmÃ©nyek leÃ­rÃ¡sa.
 d) Mindegyik oda tartozik.
 
 3. 
-Melyik állítás a legjellemzõbb a jogi normákra?
-a) A társadalom alkotja, érvényesülését az állam biztosítja.
-b) Az állam alkotja, érvényesülését az állam biztosítja.
-c) Az állam alkotja, érvényesülését a társadalom biztosítja.
-d) A társadalom alkotja, érvényesülését a társadalom biztosítja.
+Melyik Ã¡llÃ­tÃ¡s a legjellemzÅ‘bb a jogi normÃ¡kra?
+a) A tÃ¡rsadalom alkotja, Ã©rvÃ©nyesÃ¼lÃ©sÃ©t az Ã¡llam biztosÃ­tja.
+b) Az Ã¡llam alkotja, Ã©rvÃ©nyesÃ¼lÃ©sÃ©t az Ã¡llam biztosÃ­tja.
+c) Az Ã¡llam alkotja, Ã©rvÃ©nyesÃ¼lÃ©sÃ©t a tÃ¡rsadalom biztosÃ­tja.
+d) A tÃ¡rsadalom alkotja, Ã©rvÃ©nyesÃ¼lÃ©sÃ©t a tÃ¡rsadalom biztosÃ­tja.
 
 4. 
-Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) A jogi normákat gyorsabban meg lehet változtatni, mint az erkölcsi normákat.
-b) Az erkölcsi normák szankciórendszerét a társadalmi nyomás jellemzi.
-c) A jogi norma az emberek formális magatartására irányul.
-d) Mindhárom elõzõ állítás igaz.
+Az alÃ¡bbi 3 Ã¡llÃ­tÃ¡s (a,b,c) kÃ¶zÃ¼l melyik hamis?
+a) A jogi normÃ¡kat gyorsabban meg lehet vÃ¡ltoztatni, mint az erkÃ¶lcsi normÃ¡kat.
+b) Az erkÃ¶lcsi normÃ¡k szankciÃ³rendszerÃ©t a tÃ¡rsadalmi nyomÃ¡s jellemzi.
+c) A jogi norma az emberek formÃ¡lis magatartÃ¡sÃ¡ra irÃ¡nyul.
+d) MindhÃ¡rom elÅ‘zÅ‘ Ã¡llÃ­tÃ¡s igaz.
 
 5. 
-Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) Az erkölcsi normákat gyorsabban meg lehet változtatni, mint a jogi normákat.
-b) Az erkölcsi normák szankciórendszerét a társadalmi nyomás jellemzi.
-c) A jogi norma az emberek formális magatartására irányul.
-d) Mindhárom elõzõ állítás igaz.
+Az alÃ¡bbi 3 Ã¡llÃ­tÃ¡s (a,b,c) kÃ¶zÃ¼l melyik hamis?
+a) Az erkÃ¶lcsi normÃ¡kat gyorsabban meg lehet vÃ¡ltoztatni, mint a jogi normÃ¡kat.
+b) Az erkÃ¶lcsi normÃ¡k szankciÃ³rendszerÃ©t a tÃ¡rsadalmi nyomÃ¡s jellemzi.
+c) A jogi norma az emberek formÃ¡lis magatartÃ¡sÃ¡ra irÃ¡nyul.
+d) MindhÃ¡rom elÅ‘zÅ‘ Ã¡llÃ­tÃ¡s igaz.
 
 5/A.
-Hányféle módját ismerjük a jogképzõdésnek, a jogi normák létrejöttének? Sorolja is fel ezeket.
+HÃ¡nyfÃ©le mÃ³djÃ¡t ismerjÃ¼k a jogkÃ©pzÅ‘dÃ©snek, a jogi normÃ¡k lÃ©trejÃ¶ttÃ©nek? Sorolja is fel ezeket.
 a) 2
-b) 3 szokásjogi, jogalkalmazói (bírói), jogalkotói
+b) 3 szokÃ¡sjogi, jogalkalmazÃ³i (bÃ­rÃ³i), jogalkotÃ³i
 c) 4
 d) 5
 
 5/B.
-Melyik jogképzõdési mód során jön létre a precedensjog?
-a) Szokásjogi jogképzõdés útján.
-b) Jogalkalmazói jogképzõdés útján.
-c) Jogalkotói jogképzõdés útján.
-d) Megyegyezés útján.
+Melyik jogkÃ©pzÅ‘dÃ©si mÃ³d sorÃ¡n jÃ¶n lÃ©tre a precedensjog?
+a) SzokÃ¡sjogi jogkÃ©pzÅ‘dÃ©s ÃºtjÃ¡n.
+b) JogalkalmazÃ³i jogkÃ©pzÅ‘dÃ©s ÃºtjÃ¡n.
+c) JogalkotÃ³i jogkÃ©pzÅ‘dÃ©s ÃºtjÃ¡n.
+d) MegyegyezÃ©s ÃºtjÃ¡n.
 
 6.
-A jog melyik funkciójának megvalósítását biztosítja elsõsorban a bírósági szervezet?
-a) Az integráló funkciót.
-b) A konfliktus-feloldó funkciót.
-c) A társadalomszervezõ funkciót.
-d) Egyik funkció megvalósítását sem biztosítja.
+A jog melyik funkciÃ³jÃ¡nak megvalÃ³sÃ­tÃ¡sÃ¡t biztosÃ­tja elsÅ‘sorban a bÃ­rÃ³sÃ¡gi szervezet?
+a) Az integrÃ¡lÃ³ funkciÃ³t.
+b) A konfliktus-feloldÃ³ funkciÃ³t.
+c) A tÃ¡rsadalomszervezÅ‘ funkciÃ³t.
+d) Egyik funkciÃ³ megvalÃ³sÃ­tÃ¡sÃ¡t sem biztosÃ­tja.
 
 6/A.
-A jog melyik funkciójának megvalósítását biztosítják elsõsorban a közigazgatási hatóságok?
-a) Az integráló funkciót.
-b) A konfliktus-feloldó funkciót.
-c) A társadalomszervezõ funkciót.
-d) Egyik funkció megvalósítását sem biztosítják.
+A jog melyik funkciÃ³jÃ¡nak megvalÃ³sÃ­tÃ¡sÃ¡t biztosÃ­tjÃ¡k elsÅ‘sorban a kÃ¶zigazgatÃ¡si hatÃ³sÃ¡gok?
+a) Az integrÃ¡lÃ³ funkciÃ³t.
+b) A konfliktus-feloldÃ³ funkciÃ³t.
+c) A tÃ¡rsadalomszervezÅ‘ funkciÃ³t.
+d) Egyik funkciÃ³ megvalÃ³sÃ­tÃ¡sÃ¡t sem biztosÃ­tjÃ¡k.
 
 7.
-Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) Az anyagi jogforrás azt a szervet jelenti, amelytõl a jogi norma ered.
-b) Az alaki jogforrás azt a formát jelenti, amelyben a jogi norma megjelenik.
-c) Elsõdleges jogforrás maga a jogalkotó hatalom, az állam. 
-d) Mindhárom elõzõ állítás igaz.
+Az alÃ¡bbi 3 Ã¡llÃ­tÃ¡s (a,b,c) kÃ¶zÃ¼l melyik hamis?
+a) Az anyagi jogforrÃ¡s azt a szervet jelenti, amelytÅ‘l a jogi norma ered.
+b) Az alaki jogforrÃ¡s azt a formÃ¡t jelenti, amelyben a jogi norma megjelenik.
+c) ElsÅ‘dleges jogforrÃ¡s maga a jogalkotÃ³ hatalom, az Ã¡llam. 
+d) MindhÃ¡rom elÅ‘zÅ‘ Ã¡llÃ­tÃ¡s igaz.
 
 8.
 Mit mond ki a "Lex superior derogat legi inferiori" alapelv?
-a) A késõbb megalkotott jogszabály a korábbinak a hatályát lerontja.
-b) A speciális jogszabályt kell alkalmazni az általánossal szemben.
-c) Alacsonyabb szintû jogszabály nem ellenkezhet magasabb szintûvel.
-d) Jogszabállyal ellentétes másik jogszabályt nem lehet alkotni.
+a) A kÃ©sÅ‘bb megalkotott jogszabÃ¡ly a korÃ¡bbinak a hatÃ¡lyÃ¡t lerontja.
+b) A speciÃ¡lis jogszabÃ¡lyt kell alkalmazni az Ã¡ltalÃ¡nossal szemben.
+c) Alacsonyabb szintÅ± jogszabÃ¡ly nem ellenkezhet magasabb szintÅ±vel.
+d) JogszabÃ¡llyal ellentÃ©tes mÃ¡sik jogszabÃ¡lyt nem lehet alkotni.
 
 8/A.
 Mit mond ki a "Lex posterior derogat legi priori" alapelv?
-a) A késõbb megalkotott jogszabály a korábbinak a hatályát lerontja.
-b) A speciális jogszabályt kell alkalmazni az általánossal szemben.
-c) Alacsonyabb szintû jogszabály nem ellenkezhet magasabb szintûvel.
-d) Jogszabállyal ellentétes másik jogszabályt nem lehet alkotni.
+a) A kÃ©sÅ‘bb megalkotott jogszabÃ¡ly a korÃ¡bbinak a hatÃ¡lyÃ¡t lerontja.
+b) A speciÃ¡lis jogszabÃ¡lyt kell alkalmazni az Ã¡ltalÃ¡nossal szemben.
+c) Alacsonyabb szintÅ± jogszabÃ¡ly nem ellenkezhet magasabb szintÅ±vel.
+d) JogszabÃ¡llyal ellentÃ©tes mÃ¡sik jogszabÃ¡lyt nem lehet alkotni.
 
 9. 
-Az alábbi jogszabályok közül melyik tartozik az anyagi jog körébe?
-a) A büntetõeljárásról szóló törvény.
-b) A polgári eljárásról szóló törvény.
-c) Az általános közigazgatási rendtartásról szóló törvény.
+Az alÃ¡bbi jogszabÃ¡lyok kÃ¶zÃ¼l melyik tartozik az anyagi jog kÃ¶rÃ©be?
+a) A bÃ¼ntetÅ‘eljÃ¡rÃ¡srÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny.
+b) A polgÃ¡ri eljÃ¡rÃ¡srÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny.
+c) Az Ã¡ltalÃ¡nos kÃ¶zigazgatÃ¡si rendtartÃ¡srÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny.
 d) Egyik sem.
 
 10.
-Az alábbi jogszabályok közül melyik tartozik az anyagi jog körébe?
-a) A büntetõeljárásról szóló törvény.
-b) A polgári törvénykönyv.
-c) Az általános közigazgatási rendtartásról szóló törvény.
+Az alÃ¡bbi jogszabÃ¡lyok kÃ¶zÃ¼l melyik tartozik az anyagi jog kÃ¶rÃ©be?
+a) A bÃ¼ntetÅ‘eljÃ¡rÃ¡srÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny.
+b) A polgÃ¡ri tÃ¶rvÃ©nykÃ¶nyv.
+c) Az Ã¡ltalÃ¡nos kÃ¶zigazgatÃ¡si rendtartÃ¡srÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny.
 d) Egyik sem.
 
 11. 
-Az alábbi jogszabályok közül melyik tartozik az alaki jog körébe?
-a) A büntetõ törvénykönyv.
-b) A büntetõeljárásról szóló törvény.
-c) A polgári törvénykönyv.
-d) A munka törvénykönyve.
+Az alÃ¡bbi jogszabÃ¡lyok kÃ¶zÃ¼l melyik tartozik az alaki jog kÃ¶rÃ©be?
+a) A bÃ¼ntetÅ‘ tÃ¶rvÃ©nykÃ¶nyv.
+b) A bÃ¼ntetÅ‘eljÃ¡rÃ¡srÃ³l szÃ³lÃ³ tÃ¶rvÃ©ny.
+c) A polgÃ¡ri tÃ¶rvÃ©nykÃ¶nyv.
+d) A munka tÃ¶rvÃ©nykÃ¶nyve.
 
 12. 
-Melyik állítás igaz?
-a) A polgári jog a közjog területéhez tartozik.
-b) A büntetõjog a magánjog területéhez tartozik.
-c) A kereskedelmi jog a magánjog területéhez tartozik.
-d) A közigazgatási jog a magánjog területéhez tartozik.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) A polgÃ¡ri jog a kÃ¶zjog terÃ¼letÃ©hez tartozik.
+b) A bÃ¼ntetÅ‘jog a magÃ¡njog terÃ¼letÃ©hez tartozik.
+c) A kereskedelmi jog a magÃ¡njog terÃ¼letÃ©hez tartozik.
+d) A kÃ¶zigazgatÃ¡si jog a magÃ¡njog terÃ¼letÃ©hez tartozik.
 
 12/A.
-Mit nevezünk joghézagnak?
-a) Amikor a bíróság nem tud választani két alkalmazandó jogszabály közül.
-b) Amikor két jogszabály egymásnak ellentmondó.
-c) Amikor a jog nem tartalmaz választ egy adott kérdésre.
-d) Amikor nincs olyan bíróság, amelyik dönthetne egy adott kérdésben.
+Mit nevezÃ¼nk joghÃ©zagnak?
+a) Amikor a bÃ­rÃ³sÃ¡g nem tud vÃ¡lasztani kÃ©t alkalmazandÃ³ jogszabÃ¡ly kÃ¶zÃ¼l.
+b) Amikor kÃ©t jogszabÃ¡ly egymÃ¡snak ellentmondÃ³.
+c) Amikor a jog nem tartalmaz vÃ¡laszt egy adott kÃ©rdÃ©sre.
+d) Amikor nincs olyan bÃ­rÃ³sÃ¡g, amelyik dÃ¶nthetne egy adott kÃ©rdÃ©sben.
 
 12/B.
-Melyik jogág szabályozási körébe tartozik a gyülekezési jog?
-a) Polgári jog.
-b) Alkotmányjog.
+Melyik jogÃ¡g szabÃ¡lyozÃ¡si kÃ¶rÃ©be tartozik a gyÃ¼lekezÃ©si jog?
+a) PolgÃ¡ri jog.
+b) AlkotmÃ¡nyjog.
 c) Munkajog.
-d) Közigazgatási jog.
+d) KÃ¶zigazgatÃ¡si jog.
 
 13. 
-Melyik állítás igaz az angolszász jogrendszerekre?
-a) A jogalkotás és jogalkalmazás szférája mereven elválik egymástól.
-b) A szabályok jelentõs része nincs törvénybe foglalva.
-c) E jogrendszerek pillérei az írott jogforrások.
-d) A joganyag önálló, zárt rendszert alkot.
+Melyik Ã¡llÃ­tÃ¡s igaz az angolszÃ¡sz jogrendszerekre?
+a) A jogalkotÃ¡s Ã©s jogalkalmazÃ¡s szfÃ©rÃ¡ja mereven elvÃ¡lik egymÃ¡stÃ³l.
+b) A szabÃ¡lyok jelentÅ‘s rÃ©sze nincs tÃ¶rvÃ©nybe foglalva.
+c) E jogrendszerek pillÃ©rei az Ã­rott jogforrÃ¡sok.
+d) A joganyag Ã¶nÃ¡llÃ³, zÃ¡rt rendszert alkot.
 
 14. 
-Melyik jogrendszerre a leginkább jellemzõ, hogy politikailag erõsen kötött?
-a) Az angolszász jogrendszerekre.
+Melyik jogrendszerre a leginkÃ¡bb jellemzÅ‘, hogy politikailag erÅ‘sen kÃ¶tÃ¶tt?
+a) Az angolszÃ¡sz jogrendszerekre.
 b) A szocialista jogrendszerekre.
-c) A kontinentális jogrendszerekre.
-d) A vallási alapú jogrendszerekre.
+c) A kontinentÃ¡lis jogrendszerekre.
+d) A vallÃ¡si alapÃº jogrendszerekre.
 
 15. 
-Melyik állítás igaz a kontinentális jogrendszerekre?
-a) A bírónak jelentõs szerepe van a jogalkotásban.
-b) A jogszabályok kevésbé elvontak és általánosak.
-c) A joganyag önálló, zárt rendszert alkot.
-d) A jogszabályok egy-egy vitás ügy eldöntésekor keletkeznek.
+Melyik Ã¡llÃ­tÃ¡s igaz a kontinentÃ¡lis jogrendszerekre?
+a) A bÃ­rÃ³nak jelentÅ‘s szerepe van a jogalkotÃ¡sban.
+b) A jogszabÃ¡lyok kevÃ©sbÃ© elvontak Ã©s Ã¡ltalÃ¡nosak.
+c) A joganyag Ã¶nÃ¡llÃ³, zÃ¡rt rendszert alkot.
+d) A jogszabÃ¡lyok egy-egy vitÃ¡s Ã¼gy eldÃ¶ntÃ©sekor keletkeznek.
 
 16. 
-Melyik állítás nem igaz a szocialista jogrendszerekre vonatkozóan?
-a) A politika közvetlenül befolyásolja a jogot.
-b) A magánjognak kisebb a jelentõsége.
-c) A jogi túlszabályozás jellemzõ.
-d) Mindegyik fenti állítás igaz rá.
+Melyik Ã¡llÃ­tÃ¡s nem igaz a szocialista jogrendszerekre vonatkozÃ³an?
+a) A politika kÃ¶zvetlenÃ¼l befolyÃ¡solja a jogot.
+b) A magÃ¡njognak kisebb a jelentÅ‘sÃ©ge.
+c) A jogi tÃºlszabÃ¡lyozÃ¡s jellemzÅ‘.
+d) Mindegyik fenti Ã¡llÃ­tÃ¡s igaz rÃ¡.
 
 17. 
-Melyik állítás nem igaz a szocialista jogrendszerekre vonatkozóan?
-a) A politika közvetlenül befolyásolja a jogot.
-b) A magánjognak nagy jelentõsége van.
-c) A jogi túlszabályozás jellemzõ.
-d) Mindegyik fenti állítás igaz rá.
+Melyik Ã¡llÃ­tÃ¡s nem igaz a szocialista jogrendszerekre vonatkozÃ³an?
+a) A politika kÃ¶zvetlenÃ¼l befolyÃ¡solja a jogot.
+b) A magÃ¡njognak nagy jelentÅ‘sÃ©ge van.
+c) A jogi tÃºlszabÃ¡lyozÃ¡s jellemzÅ‘.
+d) Mindegyik fenti Ã¡llÃ­tÃ¡s igaz rÃ¡.
 -----------------------------------------------------------------------------
 02_Jogszabalytan
 ----------------
 
 18. 
-A tényeknek olyan összessége, amelyhez valamilyen joghatás fûzõdik, ...
-a) a jogi norma diszpozíciója.
-b) a jogi norma szankciója.
--c) a jogi norma hipotézise.
-d) a jogi norma jogkövetkezménye.
+A tÃ©nyeknek olyan Ã¶sszessÃ©ge, amelyhez valamilyen joghatÃ¡s fÅ±zÅ‘dik, ...
+a) a jogi norma diszpozÃ­ciÃ³ja.
+b) a jogi norma szankciÃ³ja.
+-c) a jogi norma hipotÃ©zise.
+d) a jogi norma jogkÃ¶vetkezmÃ©nye.
 
 19. 
-Az a magatartási szabály, amelyet a jogalkotó a jogalany számára elõír, ...
--a) a jogi norma diszpozíciója.
-b) a jogi norma szankciója.
-c) a jogi norma hipotézise.
-d) a jogi norma jogkövetkezménye.
+Az a magatartÃ¡si szabÃ¡ly, amelyet a jogalkotÃ³ a jogalany szÃ¡mÃ¡ra elÅ‘Ã­r, ...
+-a) a jogi norma diszpozÃ­ciÃ³ja.
+b) a jogi norma szankciÃ³ja.
+c) a jogi norma hipotÃ©zise.
+d) a jogi norma jogkÃ¶vetkezmÃ©nye.
 
 20. 
-Egészítse ki a kipontozott részt.
-A ... esetén a jogalkotó nem határozza meg, hogy mely tényállás esetén szükséges 
-a normában meghatározott magatartást tanúsítani, csupán példaszerûen felsorolja azokat.
-a) zárt tényállás
--b) nyitott tényállás
-c) parancsoló norma
-d) diszpozitív norma
+EgÃ©szÃ­tse ki a kipontozott rÃ©szt.
+A ... esetÃ©n a jogalkotÃ³ nem hatÃ¡rozza meg, hogy mely tÃ©nyÃ¡llÃ¡s esetÃ©n szÃ¼ksÃ©ges 
+a normÃ¡ban meghatÃ¡rozott magatartÃ¡st tanÃºsÃ­tani, csupÃ¡n pÃ©ldaszerÅ±en felsorolja azokat.
+a) zÃ¡rt tÃ©nyÃ¡llÃ¡s
+-b) nyitott tÃ©nyÃ¡llÃ¡s
+c) parancsolÃ³ norma
+d) diszpozitÃ­v norma
 
 21.
-Milyenfajta rendelkezés nem fordulhat elõ a jogi norma diszpozíciójában?
-a) tiltó
-b) parancsoló
-c) megengedõ
--d) mindhárom elõfordulhat
+Milyenfajta rendelkezÃ©s nem fordulhat elÅ‘ a jogi norma diszpozÃ­ciÃ³jÃ¡ban?
+a) tiltÃ³
+b) parancsolÃ³
+c) megengedÅ‘
+-d) mindhÃ¡rom elÅ‘fordulhat
 
 22. 
-Melyik állítás igaz?
-a) A lopás bûncselekménye mindig vagyoni jellegû szankciót von maga után.
-b) A jogi norma megsértése nem járhat személyi jellegû szankcióval.
-c) A szankció egyidejûleg mindig csak egyféle joghátrányt alkalmazhat.
--d) Az érvénytelenség a szankciók egyik típusa.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) A lopÃ¡s bÅ±ncselekmÃ©nye mindig vagyoni jellegÅ± szankciÃ³t von maga utÃ¡n.
+b) A jogi norma megsÃ©rtÃ©se nem jÃ¡rhat szemÃ©lyi jellegÅ± szankciÃ³val.
+c) A szankciÃ³ egyidejÅ±leg mindig csak egyfÃ©le joghÃ¡trÃ¡nyt alkalmazhat.
+-d) Az Ã©rvÃ©nytelensÃ©g a szankciÃ³k egyik tÃ­pusa.
 
 23. 
-Melyik állítás igaz?
-a) Az apaság vélelme nem megdönthetõ.
-b) A fikció esetén lehetõség van az ellenkezõ bizonyítására.
-c) A 14. életévét be nem töltött személy cselekvõképtelenségének vélelme megdönthetõ.
--d) A vélelem legfontosabb jogi következménye a bizonyítási teher megfordítása.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) Az apasÃ¡g vÃ©lelme nem megdÃ¶nthetÅ‘.
+b) A fikciÃ³ esetÃ©n lehetÅ‘sÃ©g van az ellenkezÅ‘ bizonyÃ­tÃ¡sÃ¡ra.
+c) A 14. Ã©letÃ©vÃ©t be nem tÃ¶ltÃ¶tt szemÃ©ly cselekvÅ‘kÃ©ptelensÃ©gÃ©nek vÃ©lelme megdÃ¶nthetÅ‘.
+-d) A vÃ©lelem legfontosabb jogi kÃ¶vetkezmÃ©nye a bizonyÃ­tÃ¡si teher megfordÃ­tÃ¡sa.
 
 24.
-Melyik állítás igaz?
--a) Az apaság vélelme megdönthetõ.
-b) A fikció esetén lehetõség van az ellenkezõ bizonyítására.
-c) A 14. életévét be nem töltött személy cselekvõképtelenségének vélelme megdönthetõ.
-d) A fikció legfontosabb jogi következménye a bizonyítási teher megfordítása.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+-a) Az apasÃ¡g vÃ©lelme megdÃ¶nthetÅ‘.
+b) A fikciÃ³ esetÃ©n lehetÅ‘sÃ©g van az ellenkezÅ‘ bizonyÃ­tÃ¡sÃ¡ra.
+c) A 14. Ã©letÃ©vÃ©t be nem tÃ¶ltÃ¶tt szemÃ©ly cselekvÅ‘kÃ©ptelensÃ©gÃ©nek vÃ©lelme megdÃ¶nthetÅ‘.
+d) A fikciÃ³ legfontosabb jogi kÃ¶vetkezmÃ©nye a bizonyÃ­tÃ¡si teher megfordÃ­tÃ¡sa.
 
 25. 
-Egy jogszabály érvényességének hány feltétele van? Sorolja is fel ezeket.
-a) 3, a következõk:
--b) 4, a következõk: megfelelõ szerv; megfelelõ eljárás; kihirdetés; hierarchiába illeszkedés
-c) 2, a következõk:
-d) 5, a következõk:
+Egy jogszabÃ¡ly Ã©rvÃ©nyessÃ©gÃ©nek hÃ¡ny feltÃ©tele van? Sorolja is fel ezeket.
+a) 3, a kÃ¶vetkezÅ‘k:
+-b) 4, a kÃ¶vetkezÅ‘k: megfelelÅ‘ szerv; megfelelÅ‘ eljÃ¡rÃ¡s; kihirdetÃ©s; hierarchiÃ¡ba illeszkedÃ©s
+c) 2, a kÃ¶vetkezÅ‘k:
+d) 5, a kÃ¶vetkezÅ‘k:
 
 26. 
-Melyik állítás igaz?
-a) A jogszabály idõbeli hatálya nem lehet visszamenõleges.
-b) A magyar jogszabályok területi hatálya Magyarország teljes területe.
--c) Egy jogszabály lehet egyidejûleg érvényes, de nem hatályos.
-d) Egy jogszabály lehet egyidejûleg hatályos és érvénytelen.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) A jogszabÃ¡ly idÅ‘beli hatÃ¡lya nem lehet visszamenÅ‘leges.
+b) A magyar jogszabÃ¡lyok terÃ¼leti hatÃ¡lya MagyarorszÃ¡g teljes terÃ¼lete.
+-c) Egy jogszabÃ¡ly lehet egyidejÅ±leg Ã©rvÃ©nyes, de nem hatÃ¡lyos.
+d) Egy jogszabÃ¡ly lehet egyidejÅ±leg hatÃ¡lyos Ã©s Ã©rvÃ©nytelen.
 
 27. 
-Melyik állítás igaz?
-a) Egy magyar jogszabály minden magyar állampolgárra vonatkozik.
--b) Egy jogszabály csak a jövõre vonatkozóan állapíthat meg kötelezettséget.
-c) A személyi hatály azt határozza meg, hogy ki alkotta a jogszabályt.
-d) Egy magyar jogszabály csak magyar állampolgárokra vonatkozik.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) Egy magyar jogszabÃ¡ly minden magyar Ã¡llampolgÃ¡rra vonatkozik.
+-b) Egy jogszabÃ¡ly csak a jÃ¶vÅ‘re vonatkozÃ³an Ã¡llapÃ­that meg kÃ¶telezettsÃ©get.
+c) A szemÃ©lyi hatÃ¡ly azt hatÃ¡rozza meg, hogy ki alkotta a jogszabÃ¡lyt.
+d) Egy magyar jogszabÃ¡ly csak magyar Ã¡llampolgÃ¡rokra vonatkozik.
 
 28.
-Melyik állítás igaz?
-a) Egy jogszabály nem érvényes, ha a köztársasági elnök nem írta alá.
-b) Egy törvény nem érvényes, ha ellenkezik egy rendelettel.
--c) Egy jogszabály nem érvényes, ha nem hirdették ki.
-d) Mindhárom fenti állítás hamis.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) Egy jogszabÃ¡ly nem Ã©rvÃ©nyes, ha a kÃ¶ztÃ¡rsasÃ¡gi elnÃ¶k nem Ã­rta alÃ¡.
+b) Egy tÃ¶rvÃ©ny nem Ã©rvÃ©nyes, ha ellenkezik egy rendelettel.
+-c) Egy jogszabÃ¡ly nem Ã©rvÃ©nyes, ha nem hirdettÃ©k ki.
+d) MindhÃ¡rom fenti Ã¡llÃ­tÃ¡s hamis.
 
 29. 
-Melyik állítás igaz?
-a) Egy jogszabály nem érvényes, ha a köztársasági elnök nem írta alá.
--b) Egy rendelet nem érvényes, ha ellenkezik egy törvénnyel.
-c) Egy jogszabály akkor is érvényes, ha nem hirdették ki.
-d) Mindhárom fenti állítás hamis.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) Egy jogszabÃ¡ly nem Ã©rvÃ©nyes, ha a kÃ¶ztÃ¡rsasÃ¡gi elnÃ¶k nem Ã­rta alÃ¡.
+-b) Egy rendelet nem Ã©rvÃ©nyes, ha ellenkezik egy tÃ¶rvÃ©nnyel.
+c) Egy jogszabÃ¡ly akkor is Ã©rvÃ©nyes, ha nem hirdettÃ©k ki.
+d) MindhÃ¡rom fenti Ã¡llÃ­tÃ¡s hamis.
 
 30. 
-Melyik állítás igaz?
-a) A jogszabályok tudományos értelmezésének csak az adott ügyben van kötelezõ ereje.
--b) A jogalkotói jogszabály értelmezés minden címzettre nézve kötelezõ.
-c) A jogalkalmazói jogszabály értelmezésnek nincs kötelezõ ereje.
-d) A jogalkotói jogszabály értelmezés tilos. 
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) A jogszabÃ¡lyok tudomÃ¡nyos Ã©rtelmezÃ©sÃ©nek csak az adott Ã¼gyben van kÃ¶telezÅ‘ ereje.
+-b) A jogalkotÃ³i jogszabÃ¡ly Ã©rtelmezÃ©s minden cÃ­mzettre nÃ©zve kÃ¶telezÅ‘.
+c) A jogalkalmazÃ³i jogszabÃ¡ly Ã©rtelmezÃ©snek nincs kÃ¶telezÅ‘ ereje.
+d) A jogalkotÃ³i jogszabÃ¡ly Ã©rtelmezÃ©s tilos. 
 
 31.
-Melyik állítás igaz?
-a) A közigazgatási szervek eljárása mindig kezdeményezésre indul.
--b) A jogalanyok önkéntes jogkövetését is jogalkalmazásnak tekintjük.
-c) A jogalkalmazás célja mindig valamilyen jogsérelem orvoslása.
-d) A jogalkalmazás utolsó lépése a tényállás megállapítása.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) A kÃ¶zigazgatÃ¡si szervek eljÃ¡rÃ¡sa mindig kezdemÃ©nyezÃ©sre indul.
+-b) A jogalanyok Ã¶nkÃ©ntes jogkÃ¶vetÃ©sÃ©t is jogalkalmazÃ¡snak tekintjÃ¼k.
+c) A jogalkalmazÃ¡s cÃ©lja mindig valamilyen jogsÃ©relem orvoslÃ¡sa.
+d) A jogalkalmazÃ¡s utolsÃ³ lÃ©pÃ©se a tÃ©nyÃ¡llÃ¡s megÃ¡llapÃ­tÃ¡sa.
 
 32.
-Melyik nem következhet be a jogalkalmazás eredményeképpen?
-a) Jogviszony keletkezése.
-b) Jogviszony megszûnése.
-c) Jogviszony módosulása.
--d) Mindhárom fenti bekövetkezhet.
+Melyik nem kÃ¶vetkezhet be a jogalkalmazÃ¡s eredmÃ©nyekÃ©ppen?
+a) Jogviszony keletkezÃ©se.
+b) Jogviszony megszÅ±nÃ©se.
+c) Jogviszony mÃ³dosulÃ¡sa.
+-d) MindhÃ¡rom fenti bekÃ¶vetkezhet.
 
 33. 
-Mely szerv biztosítja a bíróságok egységes jogalkalmazását?
-a) Az alkotmánybíróság.
-b) A törvényszék.
-c) Az ítélõtábla.
--d) A Kúria.
+Mely szerv biztosÃ­tja a bÃ­rÃ³sÃ¡gok egysÃ©ges jogalkalmazÃ¡sÃ¡t?
+a) Az alkotmÃ¡nybÃ­rÃ³sÃ¡g.
+b) A tÃ¶rvÃ©nyszÃ©k.
+c) Az Ã­tÃ©lÅ‘tÃ¡bla.
+-d) A KÃºria.
 
 33/A 
-Mely szerv biztosítja a bíróságok egységes jogalkalmazását?
-a) Az alkotmánybíróság.
-b) Az ítélõtábla.
--c) A Kúria.
+Mely szerv biztosÃ­tja a bÃ­rÃ³sÃ¡gok egysÃ©ges jogalkalmazÃ¡sÃ¡t?
+a) Az alkotmÃ¡nybÃ­rÃ³sÃ¡g.
+b) Az Ã­tÃ©lÅ‘tÃ¡bla.
+-c) A KÃºria.
 d) Egyik sem.
 
 34. 
-Melyik nem tartozik a jogszabály értelmezésének módszerei közé?
-a) A rendszertani értelmezés.
-b) A történeti értelmezés.
--c) A módszertani értelmezés.
-d) A logikai értelmezés.
+Melyik nem tartozik a jogszabÃ¡ly Ã©rtelmezÃ©sÃ©nek mÃ³dszerei kÃ¶zÃ©?
+a) A rendszertani Ã©rtelmezÃ©s.
+b) A tÃ¶rtÃ©neti Ã©rtelmezÃ©s.
+-c) A mÃ³dszertani Ã©rtelmezÃ©s.
+d) A logikai Ã©rtelmezÃ©s.
 
 35. 
-A jogviszony szerkezeti elemei közé tartozik
+A jogviszony szerkezeti elemei kÃ¶zÃ© tartozik
 a) a jogviszony helye.
 b) a jogviszony ideje.
 -c) a jogviszony tartalma.
 d) Egyik sem.
 
 36.
-Ingatlan adásvételi szerzõdés esetén a jogviszony tárgya
-a) a vételár kifizetése.
-b) a tulajdonjog átruházása.
+Ingatlan adÃ¡svÃ©teli szerzÅ‘dÃ©s esetÃ©n a jogviszony tÃ¡rgya
+a) a vÃ©telÃ¡r kifizetÃ©se.
+b) a tulajdonjog Ã¡truhÃ¡zÃ¡sa.
 -c) az ingatlan.
 d) Egyik sem.
 
 37. 
-Melyik állítás hamis?
-a) A kötelmi jogban a relatív szerkezetû jogviszonyok jellemzõk.
-b) A tulajdonjog abszolút szerkezetû jogviszony.
--c) Ha több, mint 2 fél szerepel a szerzõdésben, az abszolút szerkezetû jogviszonyt eredményez.
-d) A károkozás relatív szerkezetû jogviszonyt teremt.
+Melyik Ã¡llÃ­tÃ¡s hamis?
+a) A kÃ¶telmi jogban a relatÃ­v szerkezetÅ± jogviszonyok jellemzÅ‘k.
+b) A tulajdonjog abszolÃºt szerkezetÅ± jogviszony.
+-c) Ha tÃ¶bb, mint 2 fÃ©l szerepel a szerzÅ‘dÃ©sben, az abszolÃºt szerkezetÅ± jogviszonyt eredmÃ©nyez.
+d) A kÃ¡rokozÃ¡s relatÃ­v szerkezetÅ± jogviszonyt teremt.
 
 38. 
-Az alábbiak (a,b,c) közül melyik nem rendelkezik jogi személyiséggel?
-a) Az Állam.
-b) Az egyesület.
--c) A társasház.
+Az alÃ¡bbiak (a,b,c) kÃ¶zÃ¼l melyik nem rendelkezik jogi szemÃ©lyisÃ©ggel?
+a) Az Ãllam.
+b) Az egyesÃ¼let.
+-c) A tÃ¡rsashÃ¡z.
 d) Mindegyik rendelkezik.
 
 38/A. 
-Az alábbiak (a,b,c) közül melyik nem rendelkezik jogi személyiséggel?
-a) Az Állam.
-b) Az egyesület.
+Az alÃ¡bbiak (a,b,c) kÃ¶zÃ¼l melyik nem rendelkezik jogi szemÃ©lyisÃ©ggel?
+a) Az Ãllam.
+b) Az egyesÃ¼let.
 c) Az egyetem.
 -d) Mindegyik rendelkezik. 
 
 39. 
-Melyik állítás igaz?
-a) Együttes kötelezettek bármelyikétõl az egész tartozás követelhetõ.
-b) Egyetemleges kötelezettek egyidejûleg, de arányosan kötelesek teljesíteni.
-c) A kezes az adóssal fele-fele arányban köteles teljesíteni a tartozást.
--d) Mindhárom fenti állítás hamis.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) EgyÃ¼ttes kÃ¶telezettek bÃ¡rmelyikÃ©tÅ‘l az egÃ©sz tartozÃ¡s kÃ¶vetelhetÅ‘.
+b) Egyetemleges kÃ¶telezettek egyidejÅ±leg, de arÃ¡nyosan kÃ¶telesek teljesÃ­teni.
+c) A kezes az adÃ³ssal fele-fele arÃ¡nyban kÃ¶teles teljesÃ­teni a tartozÃ¡st.
+-d) MindhÃ¡rom fenti Ã¡llÃ­tÃ¡s hamis.
 -----------------------------------------------------------------------------
 03_Szemelyek_joga
 -----------------
 
 40. 
-Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) Aki jogképes, az önállóan köthet szerzõdést.
-b) Aki jogképes, az jogosultságok alanya lehet.
-c) Aki betöltötte a 14. életévét az jogképes.
-d) Mindhárom elõzõ állítás igaz.
+Az alÃ¡bbi 3 Ã¡llÃ­tÃ¡s (a,b,c) kÃ¶zÃ¼l melyik hamis?
+a) Aki jogkÃ©pes, az Ã¶nÃ¡llÃ³an kÃ¶thet szerzÅ‘dÃ©st.
+b) Aki jogkÃ©pes, az jogosultsÃ¡gok alanya lehet.
+c) Aki betÃ¶ltÃ¶tte a 14. Ã©letÃ©vÃ©t az jogkÃ©pes.
+d) MindhÃ¡rom elÅ‘zÅ‘ Ã¡llÃ­tÃ¡s igaz.
 
 41. 
-Melyik állítás igaz?
-a) A jogképesség a születéssel kezdõdik.
-b) A jogképesség mindig a születés elõtti 300-adik napon kezdõdik.
-c) A jogképesség mindig a fogamzástól kezdõdik.
-d) A magzat jogképessége feltételes.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) A jogkÃ©pessÃ©g a szÃ¼letÃ©ssel kezdÅ‘dik.
+b) A jogkÃ©pessÃ©g mindig a szÃ¼letÃ©s elÅ‘tti 300-adik napon kezdÅ‘dik.
+c) A jogkÃ©pessÃ©g mindig a fogamzÃ¡stÃ³l kezdÅ‘dik.
+d) A magzat jogkÃ©pessÃ©ge feltÃ©teles.
 
 42. 
-Melyik állítás igaz?
-a) A bíróság korlátozhatja a természetes személy jogképességét.
-b) A Ptk. nem korlátozhatja az ember cselekvõképességét.
-c) Aki cselekvõképes, az önállóan köthet szerzõdést.
-d) Mindhárom fenti állítás hamis.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) A bÃ­rÃ³sÃ¡g korlÃ¡tozhatja a termÃ©szetes szemÃ©ly jogkÃ©pessÃ©gÃ©t.
+b) A Ptk. nem korlÃ¡tozhatja az ember cselekvÅ‘kÃ©pessÃ©gÃ©t.
+c) Aki cselekvÅ‘kÃ©pes, az Ã¶nÃ¡llÃ³an kÃ¶thet szerzÅ‘dÃ©st.
+d) MindhÃ¡rom fenti Ã¡llÃ­tÃ¡s hamis.
 
 43. 
-Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) 17 éves személy is lehet nagykorú.
-b) 17 éves személy is lehet cselekvõképes.
-c) 13 éves személy is lehet korlátozottan cselekvõképes.
-d) Mindhárom elõzõ állítás igaz.
+Az alÃ¡bbi 3 Ã¡llÃ­tÃ¡s (a,b,c) kÃ¶zÃ¼l melyik hamis?
+a) 17 Ã©ves szemÃ©ly is lehet nagykorÃº.
+b) 17 Ã©ves szemÃ©ly is lehet cselekvÅ‘kÃ©pes.
+c) 13 Ã©ves szemÃ©ly is lehet korlÃ¡tozottan cselekvÅ‘kÃ©pes.
+d) MindhÃ¡rom elÅ‘zÅ‘ Ã¡llÃ­tÃ¡s igaz.
 
 44.
-Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) A kiskorú személy a házasságkötéssel nagykorúvá válik.
-b) 17 éves személy is lehet cselekvõképes.
-c) A 13 éves személy minden esetben cselekvõképtelennek minõsül.
-d) Mindhárom elõzõ állítás igaz.
+Az alÃ¡bbi 3 Ã¡llÃ­tÃ¡s (a,b,c) kÃ¶zÃ¼l melyik hamis?
+a) A kiskorÃº szemÃ©ly a hÃ¡zassÃ¡gkÃ¶tÃ©ssel nagykorÃºvÃ¡ vÃ¡lik.
+b) 17 Ã©ves szemÃ©ly is lehet cselekvÅ‘kÃ©pes.
+c) A 13 Ã©ves szemÃ©ly minden esetben cselekvÅ‘kÃ©ptelennek minÅ‘sÃ¼l.
+d) MindhÃ¡rom elÅ‘zÅ‘ Ã¡llÃ­tÃ¡s igaz.
 
 45.
-Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) Nagykorú személy is lehet cselekvõképtelen.
-b) Kiskorú személy is lehet korlátozottan cselekvõképes.
-c) A kiskorú személy házasságkötése minden esetben érvénytelen.
-d) Mindhárom elõzõ állítás igaz.
+Az alÃ¡bbi 3 Ã¡llÃ­tÃ¡s (a,b,c) kÃ¶zÃ¼l melyik hamis?
+a) NagykorÃº szemÃ©ly is lehet cselekvÅ‘kÃ©ptelen.
+b) KiskorÃº szemÃ©ly is lehet korlÃ¡tozottan cselekvÅ‘kÃ©pes.
+c) A kiskorÃº szemÃ©ly hÃ¡zassÃ¡gkÃ¶tÃ©se minden esetben Ã©rvÃ©nytelen.
+d) MindhÃ¡rom elÅ‘zÅ‘ Ã¡llÃ­tÃ¡s igaz.
 
 46. 
-Mit nem tehet meg önállóan a korlátozottan cselekvõképes kiskorú?
-a) Tetszõleges értékû ajándékot adhat.
-b) Tetszõleges értékû ajándékot elfogadhat.
-c) Rendelkezhet munkával szerzett jövedelmével.
-d) Mindhárom fenti jognyilatkozatot megteheti önállóan.
+Mit nem tehet meg Ã¶nÃ¡llÃ³an a korlÃ¡tozottan cselekvÅ‘kÃ©pes kiskorÃº?
+a) TetszÅ‘leges Ã©rtÃ©kÅ± ajÃ¡ndÃ©kot adhat.
+b) TetszÅ‘leges Ã©rtÃ©kÅ± ajÃ¡ndÃ©kot elfogadhat.
+c) Rendelkezhet munkÃ¡val szerzett jÃ¶vedelmÃ©vel.
+d) MindhÃ¡rom fenti jognyilatkozatot megteheti Ã¶nÃ¡llÃ³an.
 
 47. 
-Melyik nem tartozik a gyám feladatai közé?
-a) A gyermek gondozása, nevelése.
-b) A gyermek vagyonának kezelése.
-c) A gyermek törvényes képviselete.
-d) Mindhárom fenti a gyám feladatai közé tartozik.
+Melyik nem tartozik a gyÃ¡m feladatai kÃ¶zÃ©?
+a) A gyermek gondozÃ¡sa, nevelÃ©se.
+b) A gyermek vagyonÃ¡nak kezelÃ©se.
+c) A gyermek tÃ¶rvÃ©nyes kÃ©pviselete.
+d) MindhÃ¡rom fenti a gyÃ¡m feladatai kÃ¶zÃ© tartozik.
 
 48. 
-Melyikkel nem feltétlenül kell rendelkeznie a jogi személynek?
-a) Székhellyel.
-b) Saját vagyonnal.
+Melyikkel nem feltÃ©tlenÃ¼l kell rendelkeznie a jogi szemÃ©lynek?
+a) SzÃ©khellyel.
+b) SajÃ¡t vagyonnal.
 c) Telephellyel.
-d) Képviselõvel.
+d) KÃ©pviselÅ‘vel.
 
 49. 
-Ki felel a jogi személy tartozásaiért?
-a) A vezetõ tisztségviselõ.
-b) A döntéshozó szerv.
-c) A tagok és alapítók.
+Ki felel a jogi szemÃ©ly tartozÃ¡saiÃ©rt?
+a) A vezetÅ‘ tisztsÃ©gviselÅ‘.
+b) A dÃ¶ntÃ©shozÃ³ szerv.
+c) A tagok Ã©s alapÃ­tÃ³k.
 d) Egyik sem.
 
 50. 
-Mikor jön létre a jogi személy?
-a) A létesítõ okirat aláírásakor.
-b) A bejegyzési kérelem bírósághoz történõ benyújtásakor.
-c) A bírósági nyilvántartásba vétel megtörténtekor.
-d) A bírósági határozat kézbesítésekor.
+Mikor jÃ¶n lÃ©tre a jogi szemÃ©ly?
+a) A lÃ©tesÃ­tÅ‘ okirat alÃ¡Ã­rÃ¡sakor.
+b) A bejegyzÃ©si kÃ©relem bÃ­rÃ³sÃ¡ghoz tÃ¶rtÃ©nÅ‘ benyÃºjtÃ¡sakor.
+c) A bÃ­rÃ³sÃ¡gi nyilvÃ¡ntartÃ¡sba vÃ©tel megtÃ¶rtÃ©ntekor.
+d) A bÃ­rÃ³sÃ¡gi hatÃ¡rozat kÃ©zbesÃ­tÃ©sekor.
 
 51. 
-Ki látja el a jogi személy tulajdonosainak érdekvédelmét?
-a) A könyvvizsgáló.
-b) A vezetõ tisztségviselõ.
-c) A felügyelõbizottság.
+Ki lÃ¡tja el a jogi szemÃ©ly tulajdonosainak Ã©rdekvÃ©delmÃ©t?
+a) A kÃ¶nyvvizsgÃ¡lÃ³.
+b) A vezetÅ‘ tisztsÃ©gviselÅ‘.
+c) A felÃ¼gyelÅ‘bizottsÃ¡g.
 d) Egyik sem.
 
 52. 
-Ki látja el a jogi személy törvényes mûködésének felügyeletét?
-a) Az ügyészség.
-b) A felügyelõbizottság.
-c) A nyilvántartó bíróság.
+Ki lÃ¡tja el a jogi szemÃ©ly tÃ¶rvÃ©nyes mÅ±kÃ¶dÃ©sÃ©nek felÃ¼gyeletÃ©t?
+a) Az Ã¼gyÃ©szsÃ©g.
+b) A felÃ¼gyelÅ‘bizottsÃ¡g.
+c) A nyilvÃ¡ntartÃ³ bÃ­rÃ³sÃ¡g.
 d) Egyik sem.
 
 53.
-Melyik állítás hamis?
-a) Összeolvadásnál a korábbi jogi személyek megszûnnek.
-b) Kiválásnál a jogi személy megszûnik.
-c) Különválásnál a jogi személy megszûnik.
-d) Átalakulásnál a korábbi jogi személy megszûnik.
+Melyik Ã¡llÃ­tÃ¡s hamis?
+a) Ã–sszeolvadÃ¡snÃ¡l a korÃ¡bbi jogi szemÃ©lyek megszÅ±nnek.
+b) KivÃ¡lÃ¡snÃ¡l a jogi szemÃ©ly megszÅ±nik.
+c) KÃ¼lÃ¶nvÃ¡lÃ¡snÃ¡l a jogi szemÃ©ly megszÅ±nik.
+d) ÃtalakulÃ¡snÃ¡l a korÃ¡bbi jogi szemÃ©ly megszÅ±nik.
 
 54. 
-Melyik nem tartozik a (jogi személy) jogutód nélküli megszûnés esetei közé?
-a) A tagok kimondják a megszûnést.
-b) A létesítõ okiratban meghatározott idõ eltelik.
-c) A jogi személy tartozása meghaladja a vagyonát.
-d) A jogosult szerv megszünteti.
+Melyik nem tartozik a (jogi szemÃ©ly) jogutÃ³d nÃ©lkÃ¼li megszÅ±nÃ©s esetei kÃ¶zÃ©?
+a) A tagok kimondjÃ¡k a megszÅ±nÃ©st.
+b) A lÃ©tesÃ­tÅ‘ okiratban meghatÃ¡rozott idÅ‘ eltelik.
+c) A jogi szemÃ©ly tartozÃ¡sa meghaladja a vagyonÃ¡t.
+d) A jogosult szerv megszÃ¼nteti.
 
 55. 
-Melyik állítás igaz?
-a) Alapítvány létrehozásához legalább 10 alapító szükséges.
-b) Az egyesület megszûnik, ha tagjainak száma tartósan nem éri el a 12 fõt.
-c) Az egyesület átalakulhat alapítvánnyá.
-d) Egyik fenti állítás sem igaz.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) AlapÃ­tvÃ¡ny lÃ©trehozÃ¡sÃ¡hoz legalÃ¡bb 10 alapÃ­tÃ³ szÃ¼ksÃ©ges.
+b) Az egyesÃ¼let megszÅ±nik, ha tagjainak szÃ¡ma tartÃ³san nem Ã©ri el a 12 fÅ‘t.
+c) Az egyesÃ¼let Ã¡talakulhat alapÃ­tvÃ¡nnyÃ¡.
+d) Egyik fenti Ã¡llÃ­tÃ¡s sem igaz.
 
 56.
-Melyik állítás igaz?
-a) Alapítvány létrehozásához legalább 10 alapító szükséges.
-b) Az egyesület megszûnik, ha tagjainak száma tartósan nem éri el a 10 fõt.
-c) Az alapítvány átalakulhat egyesületté.
-d) Egyik fenti állítás sem igaz.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) AlapÃ­tvÃ¡ny lÃ©trehozÃ¡sÃ¡hoz legalÃ¡bb 10 alapÃ­tÃ³ szÃ¼ksÃ©ges.
+b) Az egyesÃ¼let megszÅ±nik, ha tagjainak szÃ¡ma tartÃ³san nem Ã©ri el a 10 fÅ‘t.
+c) Az alapÃ­tvÃ¡ny Ã¡talakulhat egyesÃ¼lettÃ©.
+d) Egyik fenti Ã¡llÃ­tÃ¡s sem igaz.
 
 57.
-Egyesületnél mely esetben kötelezõ a felügyelõbizottság létrehozása?
-a) Ha a tagok több, mint negyede nem természetes személy.
-b) Ha a tagok létszáma az 50 fõt meghaladja.
-c) Ha a könyvvizsgáló ezt kéri.
-d) Egyik fenti esetben sem kötelezõ.
+EgyesÃ¼letnÃ©l mely esetben kÃ¶telezÅ‘ a felÃ¼gyelÅ‘bizottsÃ¡g lÃ©trehozÃ¡sa?
+a) Ha a tagok tÃ¶bb, mint negyede nem termÃ©szetes szemÃ©ly.
+b) Ha a tagok lÃ©tszÃ¡ma az 50 fÅ‘t meghaladja.
+c) Ha a kÃ¶nyvvizsgÃ¡lÃ³ ezt kÃ©ri.
+d) Egyik fenti esetben sem kÃ¶telezÅ‘.
 
 58.
-Egyesületnél mely esetben kötelezõ a felügyelõbizottság létrehozása?
-a) Ha a tagok több, mint fele nem természetes személy.
-b) Ha a tagok létszáma az 50 fõt meghaladja.
-c) Ha a könyvvizsgáló ezt kéri.
-d) Egyik fenti esetben sem kötelezõ.
+EgyesÃ¼letnÃ©l mely esetben kÃ¶telezÅ‘ a felÃ¼gyelÅ‘bizottsÃ¡g lÃ©trehozÃ¡sa?
+a) Ha a tagok tÃ¶bb, mint fele nem termÃ©szetes szemÃ©ly.
+b) Ha a tagok lÃ©tszÃ¡ma az 50 fÅ‘t meghaladja.
+c) Ha a kÃ¶nyvvizsgÃ¡lÃ³ ezt kÃ©ri.
+d) Egyik fenti esetben sem kÃ¶telezÅ‘.
 
 59. 
-Melyik állítás igaz?
-a) Alapítvány nem, de egyesület létrehozható gazdasági tevékenység folytatására.
-b) Egyesület nem, de alapítvány létrehozható gazdasági tevékenység folytatására.
-c) Sem egyesület, sem alapítvány nem hozható létre gazdasági tevékenység folytatására.
-d) Egyesület és alapítvány is létrehozható gazdasági tevékenység folytatására.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) AlapÃ­tvÃ¡ny nem, de egyesÃ¼let lÃ©trehozhatÃ³ gazdasÃ¡gi tevÃ©kenysÃ©g folytatÃ¡sÃ¡ra.
+b) EgyesÃ¼let nem, de alapÃ­tvÃ¡ny lÃ©trehozhatÃ³ gazdasÃ¡gi tevÃ©kenysÃ©g folytatÃ¡sÃ¡ra.
+c) Sem egyesÃ¼let, sem alapÃ­tvÃ¡ny nem hozhatÃ³ lÃ©tre gazdasÃ¡gi tevÃ©kenysÃ©g folytatÃ¡sÃ¡ra.
+d) EgyesÃ¼let Ã©s alapÃ­tvÃ¡ny is lÃ©trehozhatÃ³ gazdasÃ¡gi tevÃ©kenysÃ©g folytatÃ¡sÃ¡ra.
 -----------------------------------------------------------------------------
 04_Tarsasagi_jog
 ----------------
 
 60. 
-Melyik jellemzõ a kontinentális (német) társasági modellre?
-a) Erõsen megosztott a tulajdonosi szerkezet.
-b) Csekély a társasági formaválaszték.
-c) A társasági szervek élesen elkülönülnek egymástól.
-d) Egyik sem jellemzõ.
+Melyik jellemzÅ‘ a kontinentÃ¡lis (nÃ©met) tÃ¡rsasÃ¡gi modellre?
+a) ErÅ‘sen megosztott a tulajdonosi szerkezet.
+b) CsekÃ©ly a tÃ¡rsasÃ¡gi formavÃ¡lasztÃ©k.
+c) A tÃ¡rsasÃ¡gi szervek Ã©lesen elkÃ¼lÃ¶nÃ¼lnek egymÃ¡stÃ³l.
+d) Egyik sem jellemzÅ‘.
 
 61. 
-Melyik nem jellemzõ az angol-amerikai társasági modellre?
-a) A társasági jog szorosan összefonódik a tõkepiac intézményeivel.
-b) A társaságnak egységes vezetõ szerve van.
-c) A könyvvizsgáló szerepe és felelõssége csekély.
-d) Mindegyik fenti állítás jellemzõ rá.
+Melyik nem jellemzÅ‘ az angol-amerikai tÃ¡rsasÃ¡gi modellre?
+a) A tÃ¡rsasÃ¡gi jog szorosan Ã¶sszefonÃ³dik a tÅ‘kepiac intÃ©zmÃ©nyeivel.
+b) A tÃ¡rsasÃ¡gnak egysÃ©ges vezetÅ‘ szerve van.
+c) A kÃ¶nyvvizsgÃ¡lÃ³ szerepe Ã©s felelÅ‘ssÃ©ge csekÃ©ly.
+d) Mindegyik fenti Ã¡llÃ­tÃ¡s jellemzÅ‘ rÃ¡.
 
 62.
-Az alábbiak közül melyik szolgálja a közérdeket a társasági jogban?
-a) A diszpozitív szabályozás.
-b) A cégnyilvánosság elve.
-c) A választott bírósági eljárás igénybevételének lehetõsége.
+Az alÃ¡bbiak kÃ¶zÃ¼l melyik szolgÃ¡lja a kÃ¶zÃ©rdeket a tÃ¡rsasÃ¡gi jogban?
+a) A diszpozitÃ­v szabÃ¡lyozÃ¡s.
+b) A cÃ©gnyilvÃ¡nossÃ¡g elve.
+c) A vÃ¡lasztott bÃ­rÃ³sÃ¡gi eljÃ¡rÃ¡s igÃ©nybevÃ©telÃ©nek lehetÅ‘sÃ©ge.
 d) Egyik sem.
 
 63. 
-Melyik társasági forma nem hozható létre egyszemélyes gazdasági társaságként?
-a) Egyszemélyes korlátolt felelõsségû társaság.
-b) Egyszemélyes betéti társaság.
-c) Egyszemélyes részvénytársaság.
-d) Mindhárom forma létrehozható.
+Melyik tÃ¡rsasÃ¡gi forma nem hozhatÃ³ lÃ©tre egyszemÃ©lyes gazdasÃ¡gi tÃ¡rsasÃ¡gkÃ©nt?
+a) EgyszemÃ©lyes korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.
+b) EgyszemÃ©lyes betÃ©ti tÃ¡rsasÃ¡g.
+c) EgyszemÃ©lyes rÃ©szvÃ©nytÃ¡rsasÃ¡g.
+d) MindhÃ¡rom forma lÃ©trehozhatÃ³.
 
 64.
-Melyik társasági forma hozható létre egyszemélyes gazdasági társaságként?
-a) Egyszemélyes betéti társaság.
-b) Egyszemélyes korlátolt felelõsségû társaság.
-c) Egyszemélyes közkereseti társaság.
-d) Egyik sem hozható létre.
+Melyik tÃ¡rsasÃ¡gi forma hozhatÃ³ lÃ©tre egyszemÃ©lyes gazdasÃ¡gi tÃ¡rsasÃ¡gkÃ©nt?
+a) EgyszemÃ©lyes betÃ©ti tÃ¡rsasÃ¡g.
+b) EgyszemÃ©lyes korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.
+c) EgyszemÃ©lyes kÃ¶zkereseti tÃ¡rsasÃ¡g.
+d) Egyik sem hozhatÃ³ lÃ©tre.
 
 65. 
-Hány tag alapíthat közkereseti társaságot?
-a) Legalább egy beltag.
-b) Legalább egy beltag és egy kültag.
-c) Legalább két tag.
-d) Legalább két beltag.
+HÃ¡ny tag alapÃ­that kÃ¶zkereseti tÃ¡rsasÃ¡got?
+a) LegalÃ¡bb egy beltag.
+b) LegalÃ¡bb egy beltag Ã©s egy kÃ¼ltag.
+c) LegalÃ¡bb kÃ©t tag.
+d) LegalÃ¡bb kÃ©t beltag.
 
 66.
-Milyen célt szolgál a társasági formakényszer?
-a) A hitelezõk védelmét.
-b) A kisebbségi jogok védelmét.
-c) A társulási szabadság érvényre jutását.
-d) A közérdeket.
+Milyen cÃ©lt szolgÃ¡l a tÃ¡rsasÃ¡gi formakÃ©nyszer?
+a) A hitelezÅ‘k vÃ©delmÃ©t.
+b) A kisebbsÃ©gi jogok vÃ©delmÃ©t.
+c) A tÃ¡rsulÃ¡si szabadsÃ¡g Ã©rvÃ©nyre jutÃ¡sÃ¡t.
+d) A kÃ¶zÃ©rdeket.
 
 67. 
-Hányféle társasági formában alapítható gazdasági társaság? Sorolja is fel õket.
-a) 3, a következõk:
--b) 4, a következõk: Kkt., Bt., Kft., Zrt.
-c) 5, a következõk:
-d) Egyik fenti válasz sem megfelelõ.
+HÃ¡nyfÃ©le tÃ¡rsasÃ¡gi formÃ¡ban alapÃ­thatÃ³ gazdasÃ¡gi tÃ¡rsasÃ¡g? Sorolja is fel Å‘ket.
+a) 3, a kÃ¶vetkezÅ‘k:
+-b) 4, a kÃ¶vetkezÅ‘k: Kkt., Bt., Kft., Zrt.
+c) 5, a kÃ¶vetkezÅ‘k:
+d) Egyik fenti vÃ¡lasz sem megfelelÅ‘.
 
 68. 
-Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?
-a) A korlátolt felelõsségû társaság.
-b) A betéti társaság.
-c) A részvénytársaság.
+Az alÃ¡bbiak kÃ¶zÃ¼l melyik szervezet nem rendelkezik jogi szemÃ©lyisÃ©ggel?
+a) A korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.
+b) A betÃ©ti tÃ¡rsasÃ¡g.
+c) A rÃ©szvÃ©nytÃ¡rsasÃ¡g.
 d) Mindegyik rendelkezik.
 
 68/A. 
-Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?
-a) A korlátolt felelõsségû társaság.
-b) Az egyéni cég.
-c) A részvénytársaság.
+Az alÃ¡bbiak kÃ¶zÃ¼l melyik szervezet nem rendelkezik jogi szemÃ©lyisÃ©ggel?
+a) A korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g.
+b) Az egyÃ©ni cÃ©g.
+c) A rÃ©szvÃ©nytÃ¡rsasÃ¡g.
 d) Mindegyik rendelkezik.
 
 69.
-Az alábbiak közül melyik nem lehet apport gazdasági társaság alapítása során?
-a) Egy személyautó.
-b) Egy találmány.
-c) Szerzõdésen alapuló követelés.
+Az alÃ¡bbiak kÃ¶zÃ¼l melyik nem lehet apport gazdasÃ¡gi tÃ¡rsasÃ¡g alapÃ­tÃ¡sa sorÃ¡n?
+a) Egy szemÃ©lyautÃ³.
+b) Egy talÃ¡lmÃ¡ny.
+c) SzerzÅ‘dÃ©sen alapulÃ³ kÃ¶vetelÃ©s.
 d) A fentiek mindegyike lehet apport.
 
 70. 
-Melyik állítás igaz?
-a) Közkereseti társaság nem lehet egy korlátolt felelõsségû társaságnak tagja.
-b) Betéti társaság nem lehet egy közkereseti társaságnak tagja.
-c) Korlátolt felelõsségû társaság nem lehet egy betéti társaságnak beltagja.
-d) Részvénytársaságnak csak természetes személyek lehetnek a tagjai.
+Melyik Ã¡llÃ­tÃ¡s igaz?
+a) KÃ¶zkereseti tÃ¡rsasÃ¡g nem lehet egy korlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡gnak tagja.
+b) BetÃ©ti tÃ¡rsasÃ¡g nem lehet egy kÃ¶zkereseti tÃ¡rsasÃ¡gnak tagja.
+c) KorlÃ¡tolt felelÅ‘ssÃ©gÅ± tÃ¡rsasÃ¡g nem lehet egy betÃ©ti tÃ¡rsasÃ¡gnak beltagja.
+d) RÃ©szvÃ©nytÃ¡rsasÃ¡gnak csak termÃ©szetes szemÃ©lyek lehetnek a tagjai.
 
 71. 
-Melyiket nem kezdeményezhetik a G.T. szavazati jogok 5%-ával rendelkezõ tagjai?
-a) Egyedi könyvvizsgálatot.
-b) A legfõbb szerv összehívását.
-c) Egy tag kizárását.
-d) A társaság igényének érvényesítését egy taggal szemben.
+Melyiket nem kezdemÃ©nyezhetik a G.T. szavazati jogok 5%-Ã¡val rendelkezÅ‘ tagjai?
+a) Egyedi kÃ¶nyvvizsgÃ¡latot.
+b) A legfÅ‘bb szerv Ã¶sszehÃ­vÃ¡sÃ¡t.
+c) Egy tag kizÃ¡rÃ¡sÃ¡t.
+d) A tÃ¡rsasÃ¡g igÃ©nyÃ©nek Ã©rvÃ©nyesÃ­tÃ©sÃ©t egy taggal szemben.
 
 72. 
-Kik szavazhatnak a gazdasági társaság legfõbb szervének ülésén?
-a) A társaság tagjai.
-b) A társaság tagjai és a vezetõ tisztségviselõ.
-c) A tagok és a felügyelõ bizottság tagjai.
-d) A tagok és a cégvezetõk.
+Kik szavazhatnak a gazdasÃ¡gi tÃ¡rsasÃ¡g legfÅ‘bb szervÃ©nek Ã¼lÃ©sÃ©n?
+a) A tÃ¡rsasÃ¡g tagjai.
+b) A tÃ¡rsasÃ¡g tagjai Ã©s a vezetÅ‘ tisztsÃ©gviselÅ‘.
+c) A tagok Ã©s a felÃ¼gyelÅ‘ bizottsÃ¡g tagjai.
+d) A tagok Ã©s a cÃ©gvezetÅ‘k.
 
 73. 
-Melyik tartozik a gazdasági társaság felügyelõbizottságának feladatai közé?
-a) A vezetõ tisztségviselõ megválasztása és visszahívása.
-b) A könyvvizsgáló ellenõrzése.
-c) Az ügyvezetés ellenõrzése.
-d) A beszámoló elkészítése.
+Melyik tartozik a gazdasÃ¡gi tÃ¡rsasÃ¡g felÃ¼gyelÅ‘bizottsÃ¡gÃ¡nak feladatai kÃ¶zÃ©?
+a) A vezetÅ‘ tisztsÃ©gviselÅ‘ megvÃ¡lasztÃ¡sa Ã©s visszahÃ­vÃ¡sa.
+b) A kÃ¶nyvvizsgÃ¡lÃ³ ellenÅ‘rzÃ©se.
+c) Az Ã¼gyvezetÃ©s ellenÅ‘rzÃ©se.
+d) A beszÃ¡molÃ³ elkÃ©szÃ­tÃ©se.
 
 74. 
-A gazdasági társaság melyik szerve kezdeményezheti egy tag kizárását?
-a) A felügyelõ bizottság.
-b) A legfõbb szerv.
-c) A vezetõ tisztségviselõ.
-d) Egyik sem, mert tagot nem lehet kizárni.
+A gazdasÃ¡gi tÃ¡rsasÃ¡g melyik szerve kezdemÃ©nyezheti egy tag kizÃ¡rÃ¡sÃ¡t?
+a) A felÃ¼gyelÅ‘ bizottsÃ¡g.
+b) A legfÅ‘bb szerv.
+c) A vezetÅ‘ tisztsÃ©gviselÅ‘.
+d) Egyik sem, mert tagot nem lehet kizÃ¡rni.
 
 75.
-Melyik szerv dönt a társaság jogutód nélküli megszûnésérõl?
-a) A legfõbb szerv.
-b) A felügyelõ bizottság.
-c) A vezetõ tisztségviselõ.
-d) A könyvvizsgáló. 
+Melyik szerv dÃ¶nt a tÃ¡rsasÃ¡g jogutÃ³d nÃ©lkÃ¼li megszÅ±nÃ©sÃ©rÅ‘l?
+a) A legfÅ‘bb szerv.
+b) A felÃ¼gyelÅ‘ bizottsÃ¡g.
+c) A vezetÅ‘ tisztsÃ©gviselÅ‘.
+d) A kÃ¶nyvvizsgÃ¡lÃ³. 
 
 76. 
-Melyik állítás hamis a Kft-re vonatkozóan?
-a) Kft. esetén a tagok törzsbetétei különbözõ mértékûek lehetnek.
-b) Az egyes törzsbetétek mértéke legalább 100.000 Ft.
-c) A törzstbetétek összege a törzstõke, melynek minimális mértéke 1 millió Ft.
-d) Egy tagnak több üzletrésze is lehet.
+Melyik Ã¡llÃ­tÃ¡s hamis a Kft-re vonatkozÃ³an?
+a) Kft. esetÃ©n a tagok tÃ¶rzsbetÃ©tei kÃ¼lÃ¶nbÃ¶zÅ‘ mÃ©rtÃ©kÅ±ek lehetnek.
+b) Az egyes tÃ¶rzsbetÃ©tek mÃ©rtÃ©ke legalÃ¡bb 100.000 Ft.
+c) A tÃ¶rzstbetÃ©tek Ã¶sszege a tÃ¶rzstÅ‘ke, melynek minimÃ¡lis mÃ©rtÃ©ke 1 milliÃ³ Ft.
+d) Egy tagnak tÃ¶bb Ã¼zletrÃ©sze is lehet.
 
 77. 
-Melyik állítás hamis?
-a) A Bt. alaptõkéje nem lehet kevesebb, mint 100.000 Ft.
-b) A Zrt. alaptõkéje nem lehet kevesebb, mint 5 millió Ft.
-c) Az Nyrt. alaptõkéje nem lehet kevesebb, mint 20 millió Ft.
-d) A közkereseti társaság alaptõkéjére nincs minimális elõírás.
+Melyik Ã¡llÃ­tÃ¡s hamis?
+a) A Bt. alaptÅ‘kÃ©je nem lehet kevesebb, mint 100.000 Ft.
+b) A Zrt. alaptÅ‘kÃ©je nem lehet kevesebb, mint 5 milliÃ³ Ft.
+c) Az Nyrt. alaptÅ‘kÃ©je nem lehet kevesebb, mint 20 milliÃ³ Ft.
+d) A kÃ¶zkereseti tÃ¡rsasÃ¡g alaptÅ‘kÃ©jÃ©re nincs minimÃ¡lis elÅ‘Ã­rÃ¡s.
 
 78. 
-Kinek a tulajdona a betéti társaság vagyona?
-a) A beltagok közös tulajdona.
-b) Valamennyi tag közös tulajdona.
-c) A társaság tulajdona.
-d) Az alapító tagok közös tulajdona. 
+Kinek a tulajdona a betÃ©ti tÃ¡rsasÃ¡g vagyona?
+a) A beltagok kÃ¶zÃ¶s tulajdona.
+b) Valamennyi tag kÃ¶zÃ¶s tulajdona.
+c) A tÃ¡rsasÃ¡g tulajdona.
+d) Az alapÃ­tÃ³ tagok kÃ¶zÃ¶s tulajdona. 
 -----------------------------------------------------------------------------

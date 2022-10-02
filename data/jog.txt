@@ -160,7 +160,6 @@ a) A politika közvetlenül befolyásolja a jogot.
 b) A magánjognak nagy jelentõsége van.
 c) A jogi túlszabályozás jellemzõ.
 d) Mindegyik fenti állítás igaz rá.
-
 -----------------------------------------------------------------------------
 02_Jogszabalytan
 ----------------
@@ -334,7 +333,6 @@ a) Együttes kötelezettek bármelyikétõl az egész tartozás követelhetõ.
 b) Egyetemleges kötelezettek egyidejûleg, de arányosan kötelesek teljesíteni.
 c) A kezes az adóssal fele-fele arányban köteles teljesíteni a tartozást.
 -d) Mindhárom fenti állítás hamis.
-
 -----------------------------------------------------------------------------
 03_Szemelyek_joga
 -----------------
@@ -478,7 +476,6 @@ a) Alapítvány nem, de egyesület létrehozható gazdasági tevékenység folytatására.
 b) Egyesület nem, de alapítvány létrehozható gazdasági tevékenység folytatására.
 c) Sem egyesület, sem alapítvány nem hozható létre gazdasági tevékenység folytatására.
 d) Egyesület és alapítvány is létrehozható gazdasági tevékenység folytatására.
-
 -----------------------------------------------------------------------------
 04_Tarsasagi_jog
 ----------------
@@ -559,7 +556,7 @@ a) Egy személyautó.
 b) Egy találmány.
 c) Szerzõdésen alapuló követelés.
 d) A fentiek mindegyike lehet apport.
- 
+
 70. 
 Melyik állítás igaz?
 a) Közkereseti társaság nem lehet egy korlátolt felelõsségû társaságnak tagja.
@@ -622,5 +619,4 @@ a) A beltagok közös tulajdona.
 b) Valamennyi tag közös tulajdona.
 c) A társaság tulajdona.
 d) Az alapító tagok közös tulajdona. 
-
 -----------------------------------------------------------------------------

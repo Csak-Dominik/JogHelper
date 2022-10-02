@@ -15,6 +15,7 @@ import java.io.IOException;
 
 public class JogHelper extends PApplet {
 
+ArrayList<Theme> themes = new ArrayList<Theme>();
 
  public void setup() {
     /* size commented out by preprocessor */;
@@ -22,6 +23,19 @@ public class JogHelper extends PApplet {
 
  public void draw() {
     background(0);
+}
+class Answer {
+    String answerText;
+    boolean correctAnswer;
+}
+class Question {
+    String questionID;
+    String questionText;
+    ArrayList<Answer> answers = new ArrayList<Answer>();
+}
+class Theme {
+    String themeName;
+    ArrayList<Question> questions = new ArrayList<Question>();
 }
 
 

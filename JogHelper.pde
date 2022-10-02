@@ -1,5 +1,5 @@
 
-void void setup() {
+void setup() {
     size(640, 480);
 }
 

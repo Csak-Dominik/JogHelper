@@ -8,6 +8,10 @@ boolean run = true;
 int resumeTime = 0;
 boolean correctAnswerPause;
 
+int answerIndex;
+
+final int resumeTimeInterval = 1000;
+
 void setup() {
     size(800, 600);
     
@@ -31,27 +35,28 @@ void draw() {
     background(0);
 
     if (run) {
-        int answerIndex = DisplayQuestion(currentQuestion);
+        answerIndex = DisplayQuestion(currentQuestion);
     
         if (answerIndex != -1) {
             run = false;
-            resumeTime = millis() + 1500;
+            resumeTime = millis() + resumeTimeInterval;
 
             correctAnswerPause = currentQuestion.answers.get(answerIndex).correctAnswer;
-
-            currentQuestion = RandomQuestionInThemeRange(minThemeIndex, maxThemeIndex);
         }
     } else {
-        if (correctAnswerPause) {
-            fill(0, 255, 0);
-            text("A válasz helyes!", width/2, height/2);
-        } else {
-            fill(255, 0, 0);
-            text("A válasz helytelen!", width/2, height/2);
-        }
+        // if (correctAnswerPause) {
+        //     fill(0, 255, 0);
+        //     text("A válasz helyes!", width/2, height/2);
+        // } else {
+        //     fill(255, 0, 0);
+        //     text("A válasz helytelen!", width/2, height/2);
+        // }
+
+        DisplayQuestion(currentQuestion, answerIndex);
 
         if (millis() >= resumeTime) {
             run = true;
+            currentQuestion = RandomQuestionInThemeRange(minThemeIndex, maxThemeIndex);
         }
     }
 }
@@ -93,6 +98,30 @@ int DisplayQuestion(Question q) {
     }
 
     return clickedIndex;
+}
+
+void DisplayQuestion(Question q, int selectedIndex) {
+    fill(255);
+    textAlign(CENTER, BASELINE);
+    text(q.questionCode, width / 2, height / 2 - (q.answers.size() * 20) - 60);
+    text(q.questionText, width / 2, height / 2 - (q.answers.size() * 20) - 40);
+    
+    int index = 0;
+    for (Answer a : q.answers) {
+        if (a.correctAnswer && index == selectedIndex) {
+            fill(0, 255, 0);
+        } else if (!a.correctAnswer && index == selectedIndex) {
+            fill(255, 0, 0);
+        } else if (a.correctAnswer && index != selectedIndex) {
+            fill(160, 255, 160);
+        } else {
+            fill(255);
+        }
+
+        text(a.answerText, width / 2, height / 2 - (q.answers.size() / 2f * 20) + (index * 20));
+        
+        index++;
+    }
 }
 
 enum ParsePhase {

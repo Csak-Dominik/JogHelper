@@ -1,28 +1,59 @@
 ArrayList<Theme> themes = new ArrayList<Theme>();
 
 Question currentQuestion;
+int minThemeIndex = 1;
+int maxThemeIndex = 1;
+
+boolean run = true;
+int resumeTime = 0;
+boolean correctAnswerPause;
 
 void setup() {
     size(800, 600);
-    themes = ParseTextFile("jog.txt");
     
     println("Available fonts:");
     String[] fontList = PFont.list();
     printArray(fontList);
-    
+
+    themes = ParseTextFile("jog.txt");
+
     //textFont(loadFont("ArialMT-48.vlw"), 12f);
     //PFont font = createFont("Arial.ttf", 20f);
-    PFont font = createFont("Times New Roman", 20f);
+    PFont font = createFont("Arial", 20f);
     textFont(font);
     
     textSize(20);
     
-    currentQuestion = RandomQuestionInThemeRange(0, 1);
+    currentQuestion = RandomQuestionInThemeRange(minThemeIndex, maxThemeIndex);
 }
 
 void draw() {
     background(0);
-    DisplayQuestion(currentQuestion);
+
+    if (run) {
+        int answerIndex = DisplayQuestion(currentQuestion);
+    
+        if (answerIndex != -1) {
+            run = false;
+            resumeTime = millis() + 1500;
+
+            correctAnswerPause = currentQuestion.answers.get(answerIndex).correctAnswer;
+
+            currentQuestion = RandomQuestionInThemeRange(minThemeIndex, maxThemeIndex);
+        }
+    } else {
+        if (correctAnswerPause) {
+            fill(0, 255, 0);
+            text("A válasz helyes!", width/2, height/2);
+        } else {
+            fill(255, 0, 0);
+            text("A válasz helytelen!", width/2, height/2);
+        }
+
+        if (millis() >= resumeTime) {
+            run = true;
+        }
+    }
 }
 
 Question RandomQuestionInThemeRange(int minIndex, int maxIndex) {
@@ -34,7 +65,9 @@ Question RandomQuestionInThemeRange(int minIndex, int maxIndex) {
     return q;
 }
 
-void DisplayQuestion(Question q) {
+int DisplayQuestion(Question q) {
+    int clickedIndex = -1;
+
     fill(255);
     textAlign(CENTER, BASELINE);
     text(q.questionCode, width / 2, height / 2 - (q.answers.size() * 20) - 60);
@@ -49,10 +82,17 @@ void DisplayQuestion(Question q) {
         } else {
             fill(255);
         }
+
+        if (mousePressed && mouseButton == LEFT && horizHover && vertHover) {
+            // answer clicked
+            clickedIndex = index;
+        }
         text(a.answerText, width / 2, height / 2 - (q.answers.size() / 2f * 20) + (index * 20));
         
         index++;
     }
+
+    return clickedIndex;
 }
 
 enum ParsePhase {

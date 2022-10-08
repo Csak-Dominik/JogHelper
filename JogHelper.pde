@@ -2,7 +2,7 @@ ArrayList<Theme> themes = new ArrayList<Theme>();
 
 Question currentQuestion;
 int minThemeIndex = 1;
-int maxThemeIndex = 1;
+int maxThemeIndex = 2;
 
 boolean run = true;
 int resumeTime = 0;

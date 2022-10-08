@@ -163,7 +163,6 @@ d) Mindegyik fenti állítás igaz rá.
 -----------------------------------------------------------------------------
 02_Jogszabalytan
 ----------------
-
 18. 
 A tényeknek olyan összessége, amelyhez valamilyen joghatás fűződik, ...
 a) a jogi norma diszpozíciója.
@@ -336,10 +335,9 @@ c) A kezes az adóssal fele-fele arányban köteles teljesíteni a tartozást.
 -----------------------------------------------------------------------------
 03_Szemelyek_joga
 -----------------
-
 40. 
 Az alábbi 3 állítás (a,b,c) közül melyik hamis?
-a) Aki jogképes, az önállóan köthet szerződést.
+-a) Aki jogképes, az önállóan köthet szerződést.
 b) Aki jogképes, az jogosultságok alanya lehet.
 c) Aki betöltötte a 14. életévét az jogképes.
 d) Mindhárom előző állítás igaz.
@@ -349,20 +347,20 @@ Melyik állítás igaz?
 a) A jogképesség a születéssel kezdődik.
 b) A jogképesség mindig a születés előtti 300-adik napon kezdődik.
 c) A jogképesség mindig a fogamzástól kezdődik.
-d) A magzat jogképessége feltételes.
+-d) A magzat jogképessége feltételes.
 
 42. 
 Melyik állítás igaz?
 a) A bíróság korlátozhatja a természetes személy jogképességét.
 b) A Ptk. nem korlátozhatja az ember cselekvőképességét.
-c) Aki cselekvőképes, az önállóan köthet szerződést.
+-c) Aki cselekvőképes, az önállóan köthet szerződést.
 d) Mindhárom fenti állítás hamis.
 
 43. 
 Az alábbi 3 állítás (a,b,c) közül melyik hamis?
 a) 17 éves személy is lehet nagykorú.
 b) 17 éves személy is lehet cselekvőképes.
-c) 13 éves személy is lehet korlátozottan cselekvőképes.
+-c) 13 éves személy is lehet korlátozottan cselekvőképes.
 d) Mindhárom előző állítás igaz.
 
 44.
@@ -370,18 +368,18 @@ Az alábbi 3 állítás (a,b,c) közül melyik hamis?
 a) A kiskorú személy a házasságkötéssel nagykorúvá válik.
 b) 17 éves személy is lehet cselekvőképes.
 c) A 13 éves személy minden esetben cselekvőképtelennek minősül.
-d) Mindhárom előző állítás igaz.
+-d) Mindhárom előző állítás igaz.
 
 45.
 Az alábbi 3 állítás (a,b,c) közül melyik hamis?
 a) Nagykorú személy is lehet cselekvőképtelen.
 b) Kiskorú személy is lehet korlátozottan cselekvőképes.
-c) A kiskorú személy házasságkötése minden esetben érvénytelen.
+-c) A kiskorú személy házasságkötése minden esetben érvénytelen.
 d) Mindhárom előző állítás igaz.
 
 46. 
 Mit nem tehet meg önállóan a korlátozottan cselekvőképes kiskorú?
-a) Tetszőleges értékű ajándékot adhat.
+-a) Tetszőleges értékű ajándékot adhat.
 b) Tetszőleges értékű ajándékot elfogadhat.
 c) Rendelkezhet munkával szerzett jövedelmével.
 d) Mindhárom fenti jognyilatkozatot megteheti önállóan.
@@ -391,13 +389,13 @@ Melyik nem tartozik a gyám feladatai közé?
 a) A gyermek gondozása, nevelése.
 b) A gyermek vagyonának kezelése.
 c) A gyermek törvényes képviselete.
-d) Mindhárom fenti a gyám feladatai közé tartozik.
+-d) Mindhárom fenti a gyám feladatai közé tartozik.
 
 48. 
 Melyikkel nem feltétlenül kell rendelkeznie a jogi személynek?
 a) Székhellyel.
 b) Saját vagyonnal.
-c) Telephellyel.
+-c) Telephellyel.
 d) Képviselővel.
 
 49. 
@@ -405,33 +403,33 @@ Ki felel a jogi személy tartozásaiért?
 a) A vezető tisztségviselő.
 b) A döntéshozó szerv.
 c) A tagok és alapítók.
-d) Egyik sem.
+-d) Egyik sem.
 
 50. 
 Mikor jön létre a jogi személy?
 a) A létesítő okirat aláírásakor.
 b) A bejegyzési kérelem bírósághoz történő benyújtásakor.
-c) A bírósági nyilvántartásba vétel megtörténtekor.
+-c) A bírósági nyilvántartásba vétel megtörténtekor.
 d) A bírósági határozat kézbesítésekor.
 
 51. 
 Ki látja el a jogi személy tulajdonosainak érdekvédelmét?
 a) A könyvvizsgáló.
 b) A vezető tisztségviselő.
-c) A felügyelőbizottság.
+-c) A felügyelőbizottság.
 d) Egyik sem.
 
 52. 
 Ki látja el a jogi személy törvényes működésének felügyeletét?
 a) Az ügyészség.
 b) A felügyelőbizottság.
-c) A nyilvántartó bíróság.
+-c) A nyilvántartó bíróság.
 d) Egyik sem.
 
 53.
 Melyik állítás hamis?
 a) Összeolvadásnál a korábbi jogi személyek megszűnnek.
-b) Kiválásnál a jogi személy megszűnik.
+-b) Kiválásnál a jogi személy megszűnik.
 c) Különválásnál a jogi személy megszűnik.
 d) Átalakulásnál a korábbi jogi személy megszűnik.
 
@@ -439,7 +437,7 @@ d) Átalakulásnál a korábbi jogi személy megszűnik.
 Melyik nem tartozik a (jogi személy) jogutód nélküli megszűnés esetei közé?
 a) A tagok kimondják a megszűnést.
 b) A létesítő okiratban meghatározott idő eltelik.
-c) A jogi személy tartozása meghaladja a vagyonát.
+-c) A jogi személy tartozása meghaladja a vagyonát.
 d) A jogosult szerv megszünteti.
 
 55. 
@@ -452,7 +450,7 @@ d) Egyik fenti állítás sem igaz.
 56.
 Melyik állítás igaz?
 a) Alapítvány létrehozásához legalább 10 alapító szükséges.
-b) Az egyesület megszűnik, ha tagjainak száma tartósan nem éri el a 10 főt.
+-b) Az egyesület megszűnik, ha tagjainak száma tartósan nem éri el a 10 főt.
 c) Az alapítvány átalakulhat egyesületté.
 d) Egyik fenti állítás sem igaz.
 
@@ -461,11 +459,11 @@ Egyesületnél mely esetben kötelező a felügyelőbizottság létrehozása?
 a) Ha a tagok több, mint negyede nem természetes személy.
 b) Ha a tagok létszáma az 50 főt meghaladja.
 c) Ha a könyvvizsgáló ezt kéri.
-d) Egyik fenti esetben sem kötelező.
+-d) Egyik fenti esetben sem kötelező.
 
 58.
 Egyesületnél mely esetben kötelező a felügyelőbizottság létrehozása?
-a) Ha a tagok több, mint fele nem természetes személy.
+-a) Ha a tagok több, mint fele nem természetes személy.
 b) Ha a tagok létszáma az 50 főt meghaladja.
 c) Ha a könyvvizsgáló ezt kéri.
 d) Egyik fenti esetben sem kötelező.
@@ -474,12 +472,11 @@ d) Egyik fenti esetben sem kötelező.
 Melyik állítás igaz?
 a) Alapítvány nem, de egyesület létrehozható gazdasági tevékenység folytatására.
 b) Egyesület nem, de alapítvány létrehozható gazdasági tevékenység folytatására.
-c) Sem egyesület, sem alapítvány nem hozható létre gazdasági tevékenység folytatására.
+-c) Sem egyesület, sem alapítvány nem hozható létre gazdasági tevékenység folytatására.
 d) Egyesület és alapítvány is létrehozható gazdasági tevékenység folytatására.
 -----------------------------------------------------------------------------
 04_Tarsasagi_jog
 ----------------
-
 60. 
 Melyik jellemző a kontinentális (német) társasági modellre?
 a) Erősen megosztott a tulajdonosi szerkezet.

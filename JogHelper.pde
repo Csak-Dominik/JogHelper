@@ -2,7 +2,7 @@ ArrayList<Theme> themes = new ArrayList<Theme>();
 
 Question currentQuestion;
 int minThemeIndex = 1;
-int maxThemeIndex = 2;
+int maxThemeIndex = 3;
 
 boolean run = true;
 int resumeTime = 0;
@@ -12,9 +12,19 @@ int answerIndex;
 
 final int resumeTimeInterval = 1000;
 
+float TEXT_SIZE;
+
+float maxTextWidth;
+float maxHeight;
+
 void setup() {
     size(800, 600);
+    //fullScreen();
+    surface.setResizable(true);
+
+    TEXT_SIZE = (height/1080f)*30f;
     
+
     println("Available fonts:");
     String[] fontList = PFont.list();
     printArray(fontList);
@@ -26,7 +36,7 @@ void setup() {
     PFont font = createFont("Arial", 20f);
     textFont(font);
     
-    textSize(20);
+    textSize(TEXT_SIZE);
     
     currentQuestion = RandomQuestionInThemeRange(minThemeIndex, maxThemeIndex);
 }
@@ -34,9 +44,25 @@ void setup() {
 void draw() {
     background(0);
 
+    maxTextWidth = textWidth("askdaklsdlkasdlkjalkjsdlkllkjlsdkajsjdlkajslkdjalkjsdlkdasdadasdsdfsasdaddlkja") * 1.5f;
+    maxHeight = TEXT_SIZE * 16;
+
+    float ratio = (float)width/height;
+
+    //float delta = 0.2f;
+    float delta = 1.05;
+    if (width < maxTextWidth || height < maxHeight) {
+        TEXT_SIZE /= delta;
+    }
+
+    if (width >= maxTextWidth*1.1 && height >= maxHeight*1.1) {
+        TEXT_SIZE *= delta;
+    }
+
+    textSize(TEXT_SIZE);
+
     if (run) {
         answerIndex = DisplayQuestion(currentQuestion);
-    
         if (answerIndex != -1) {
             run = false;
             resumeTime = millis() + resumeTimeInterval;
@@ -75,13 +101,13 @@ int DisplayQuestion(Question q) {
 
     fill(255);
     textAlign(CENTER, BASELINE);
-    text(q.questionCode, width / 2, height / 2 - (q.answers.size() * 20) - 60);
-    text(q.questionText, width / 2, height / 2 - (q.answers.size() * 20) - 40);
+    text(q.questionCode, width / 2, height / 2 - (q.answers.size() * TEXT_SIZE) - 3*TEXT_SIZE);
+    text(q.questionText, width / 2, height / 2 - (q.answers.size() * TEXT_SIZE) - 2*TEXT_SIZE);
     
     int index = 0;
     for (Answer a : q.answers) {
         boolean horizHover = mouseX >= width / 2 - textWidth(a.answerText) / 2f && mouseX < width / 2 + textWidth(a.answerText) / 2f;
-        boolean vertHover = mouseY >= height / 2 - (q.answers.size() / 2f * 20) + (index * 20) - 20 && mouseY < height / 2 - (q.answers.size() / 2f * 20) + (index * 20);
+        boolean vertHover = mouseY >= height / 2 - (q.answers.size() / 2f * TEXT_SIZE) + (index * TEXT_SIZE) - TEXT_SIZE && mouseY < height / 2 - (q.answers.size() / 2f * TEXT_SIZE) + (index * TEXT_SIZE);
         if (horizHover && vertHover) {
             fill(255, 255, 0);
         } else {
@@ -92,7 +118,7 @@ int DisplayQuestion(Question q) {
             // answer clicked
             clickedIndex = index;
         }
-        text(a.answerText, width / 2, height / 2 - (q.answers.size() / 2f * 20) + (index * 20));
+        text(a.answerText, width / 2, height / 2 - (q.answers.size() / 2f * TEXT_SIZE) + (index * TEXT_SIZE));
         
         index++;
     }
@@ -103,22 +129,27 @@ int DisplayQuestion(Question q) {
 void DisplayQuestion(Question q, int selectedIndex) {
     fill(255);
     textAlign(CENTER, BASELINE);
-    text(q.questionCode, width / 2, height / 2 - (q.answers.size() * 20) - 60);
-    text(q.questionText, width / 2, height / 2 - (q.answers.size() * 20) - 40);
+    text(q.questionCode, width / 2, height / 2 - (q.answers.size() * TEXT_SIZE) - 3*TEXT_SIZE);
+    text(q.questionText, width / 2, height / 2 - (q.answers.size() * TEXT_SIZE) - 2*TEXT_SIZE);
     
     int index = 0;
     for (Answer a : q.answers) {
+        float posY = height / 2 - (q.answers.size() / 2f * TEXT_SIZE) + (index * TEXT_SIZE);
+        float textPosY = posY - TEXT_SIZE*(1f/3f);
         if (a.correctAnswer && index == selectedIndex) {
             fill(0, 255, 0);
         } else if (!a.correctAnswer && index == selectedIndex) {
             fill(255, 0, 0);
         } else if (a.correctAnswer && index != selectedIndex) {
             fill(160, 255, 160);
+            stroke(160, 255, 160);
+            line(20, textPosY, width/2f - textWidth(a.answerText)/2f - 10, textPosY);
+            line(width-20, textPosY, width/2f + textWidth(a.answerText)/2f + 10 , textPosY);
         } else {
             fill(255);
         }
 
-        text(a.answerText, width / 2, height / 2 - (q.answers.size() / 2f * 20) + (index * 20));
+        text(a.answerText, width / 2, posY);
         
         index++;
     }

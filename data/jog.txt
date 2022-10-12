@@ -481,20 +481,20 @@ d) Egyesület és alapítvány is létrehozható gazdasági tevékenység folyta
 Melyik jellemző a kontinentális (német) társasági modellre?
 a) Erősen megosztott a tulajdonosi szerkezet.
 b) Csekély a társasági formaválaszték.
-c) A társasági szervek élesen elkülönülnek egymástól.
+-c) A társasági szervek élesen elkülönülnek egymástól.
 d) Egyik sem jellemző.
 
 61. 
 Melyik nem jellemző az angol-amerikai társasági modellre?
 a) A társasági jog szorosan összefonódik a tőkepiac intézményeivel.
 b) A társaságnak egységes vezető szerve van.
-c) A könyvvizsgáló szerepe és felelőssége csekély.
+-c) A könyvvizsgáló szerepe és felelőssége csekély.
 d) Mindegyik fenti állítás jellemző rá.
 
 62.
 Az alábbiak közül melyik szolgálja a közérdeket a társasági jogban?
 a) A diszpozitív szabályozás.
-b) A cégnyilvánosság elve.
+-b) A cégnyilvánosság elve.
 c) A választott bírósági eljárás igénybevételének lehetősége.
 d) Egyik sem.
 
@@ -508,7 +508,7 @@ d) Mindhárom forma létrehozható.
 64.
 Melyik társasági forma hozható létre egyszemélyes gazdasági társaságként?
 a) Egyszemélyes betéti társaság.
-b) Egyszemélyes korlátolt felelősségű társaság.
+-b) Egyszemélyes korlátolt felelősségű társaság.
 c) Egyszemélyes közkereseti társaság.
 d) Egyik sem hozható létre.
 
@@ -516,7 +516,7 @@ d) Egyik sem hozható létre.
 Hány tag alapíthat közkereseti társaságot?
 a) Legalább egy beltag.
 b) Legalább egy beltag és egy kültag.
-c) Legalább két tag.
+-c) Legalább két tag.
 d) Legalább két beltag.
 
 66.
@@ -524,7 +524,7 @@ Milyen célt szolgál a társasági formakényszer?
 a) A hitelezők védelmét.
 b) A kisebbségi jogok védelmét.
 c) A társulási szabadság érvényre jutását.
-d) A közérdeket.
+-d) A közérdeket.
 
 67. 
 Hányféle társasági formában alapítható gazdasági társaság? Sorolja is fel őket.
@@ -538,12 +538,12 @@ Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?
 a) A korlátolt felelősségű társaság.
 b) A betéti társaság.
 c) A részvénytársaság.
-d) Mindegyik rendelkezik.
+-d) Mindegyik rendelkezik.
 
 68/A. 
 Az alábbiak közül melyik szervezet nem rendelkezik jogi személyiséggel?
 a) A korlátolt felelősségű társaság.
-b) Az egyéni cég.
+-b) Az egyéni cég.
 c) A részvénytársaság.
 d) Mindegyik rendelkezik.
 
@@ -551,13 +551,13 @@ d) Mindegyik rendelkezik.
 Az alábbiak közül melyik nem lehet apport gazdasági társaság alapítása során?
 a) Egy személyautó.
 b) Egy találmány.
-c) Szerződésen alapuló követelés.
+-c) Szerződésen alapuló követelés.
 d) A fentiek mindegyike lehet apport.
 
 70. 
 Melyik állítás igaz?
 a) Közkereseti társaság nem lehet egy korlátolt felelősségű társaságnak tagja.
-b) Betéti társaság nem lehet egy közkereseti társaságnak tagja.
+-b) Betéti társaság nem lehet egy közkereseti társaságnak tagja.
 c) Korlátolt felelősségű társaság nem lehet egy betéti társaságnak beltagja.
 d) Részvénytársaságnak csak természetes személyek lehetnek a tagjai.
 
@@ -565,12 +565,12 @@ d) Részvénytársaságnak csak természetes személyek lehetnek a tagjai.
 Melyiket nem kezdeményezhetik a G.T. szavazati jogok 5%-ával rendelkező tagjai?
 a) Egyedi könyvvizsgálatot.
 b) A legfőbb szerv összehívását.
-c) Egy tag kizárását.
+-c) Egy tag kizárását.
 d) A társaság igényének érvényesítését egy taggal szemben.
 
 72. 
 Kik szavazhatnak a gazdasági társaság legfőbb szervének ülésén?
-a) A társaság tagjai.
+-a) A társaság tagjai.
 b) A társaság tagjai és a vezető tisztségviselő.
 c) A tagok és a felügyelő bizottság tagjai.
 d) A tagok és a cégvezetők.
@@ -579,19 +579,19 @@ d) A tagok és a cégvezetők.
 Melyik tartozik a gazdasági társaság felügyelőbizottságának feladatai közé?
 a) A vezető tisztségviselő megválasztása és visszahívása.
 b) A könyvvizsgáló ellenőrzése.
-c) Az ügyvezetés ellenőrzése.
+-c) Az ügyvezetés ellenőrzése.
 d) A beszámoló elkészítése.
 
 74. 
 A gazdasági társaság melyik szerve kezdeményezheti egy tag kizárását?
 a) A felügyelő bizottság.
-b) A legfőbb szerv.
+-b) A legfőbb szerv.
 c) A vezető tisztségviselő.
 d) Egyik sem, mert tagot nem lehet kizárni.
 
 75.
 Melyik szerv dönt a társaság jogutód nélküli megszűnéséről?
-a) A legfőbb szerv.
+-a) A legfőbb szerv.
 b) A felügyelő bizottság.
 c) A vezető tisztségviselő.
 d) A könyvvizsgáló. 
@@ -600,12 +600,12 @@ d) A könyvvizsgáló.
 Melyik állítás hamis a Kft-re vonatkozóan?
 a) Kft. esetén a tagok törzsbetétei különböző mértékűek lehetnek.
 b) Az egyes törzsbetétek mértéke legalább 100.000 Ft.
-c) A törzstbetétek összege a törzstőke, melynek minimális mértéke 1 millió Ft.
+-c) A törzstbetétek összege a törzstőke, melynek minimális mértéke 1 millió Ft.
 d) Egy tagnak több üzletrésze is lehet.
 
 77. 
 Melyik állítás hamis?
-a) A Bt. alaptőkéje nem lehet kevesebb, mint 100.000 Ft.
+-a) A Bt. alaptőkéje nem lehet kevesebb, mint 100.000 Ft.
 b) A Zrt. alaptőkéje nem lehet kevesebb, mint 5 millió Ft.
 c) Az Nyrt. alaptőkéje nem lehet kevesebb, mint 20 millió Ft.
 d) A közkereseti társaság alaptőkéjére nincs minimális előírás.
@@ -614,6 +614,6 @@ d) A közkereseti társaság alaptőkéjére nincs minimális előírás.
 Kinek a tulajdona a betéti társaság vagyona?
 a) A beltagok közös tulajdona.
 b) Valamennyi tag közös tulajdona.
-c) A társaság tulajdona.
+-c) A társaság tulajdona.
 d) Az alapító tagok közös tulajdona. 
 -----------------------------------------------------------------------------
